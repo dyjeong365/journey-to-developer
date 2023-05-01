@@ -5,13 +5,13 @@
 
 ## 목차
 
-- [AI](#robot-ai)
+- [인공지능](#robot-인공지능)
 - [IT 뉴스](#newspaper_roll-it-뉴스)
 - [부트캠프](#camping-부트캠프)
-- [Open Source](#whale-open-source)
+- [오픈소스](#recycle-오픈소스)
 - [저작권](#copyright-저작권)
 
-## :robot: AI
+## :robot: 인공지능
 
 - [ChatGPT](https://chat.openai.com/chat)
   - [[Chrome Extension] ChatGPT for Google](https://abctech.tistory.com/55)
@@ -36,11 +36,13 @@
   - [[SEB BE 44] Section 1 후기](https://memodayoungee.tistory.com/82)
   - [[SEB BE 44] Section 2 회고록](https://memodayoungee.tistory.com/112)
   
-## :whale: Open Source
+## :recycle: 오픈소스
 
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
 - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
+- [오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/)
 - [Choose an open source license](https://choosealicense.com/)
+- [오픈소스SW 라이선스 종합정보시스템](https://www.olis.or.kr/license/introduction.do)
 
 ## :copyright: 저작권
 
