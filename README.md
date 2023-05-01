@@ -8,6 +8,12 @@
 
 <br>
 
+# 👋 소개
+
+평소 IT 관련해서 많이 북마크 하는데 이를 모든 사람에게 공유하기 위해 작성함.
+
+<br>
+
 # 🤖 AI와 친해지기
 
 - [ChatGPT](https://chat.openai.com/chat)
