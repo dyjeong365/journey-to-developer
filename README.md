@@ -1,20 +1,15 @@
-<div align=center>
 
 # journey-to-developer
 
-📚 개발자가 되기 위한 잡다한 정보 모음
+평소 IT 관련해서 많이 북마크 하는데, 이를 모든 사람에게 공유하기 위해 작성했습니다.
 
-</div>
+## 목차
+- [AI](#robot-ai)
+- [IT 뉴스](#newspaper_roll-it-뉴스)
+- [부트캠프](#camping-부트캠프)
+- [저작권](#copyright-저작권)
 
-<br>
-
-# 👋 소개
-
-평소 IT 관련해서 많이 북마크 하는데 이를 모든 사람에게 공유하기 위해 작성함.
-
-<br>
-
-# 🤖 AI와 친해지기
+## :robot: AI
 
 - [ChatGPT](https://chat.openai.com/chat)
   - [[Chrome Extension] ChatGPT for Google](https://abctech.tistory.com/55)
@@ -23,16 +18,19 @@
   - [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
 - [Bard](https://bard.google.com/)
 
-<br>
-
-# 🗞 IT 뉴스
+## :newspaper_roll: IT 뉴스
 
 - [클리앙](https://www.clien.net/service/board/news)
 - [기글하드웨어](https://gigglehd.com/gg/)
 - [미니기기 코리아](https://meeco.kr/news)
 
-<br>
+## :camping: 부트캠프
+- [[부트텐트] 부트캠프리스트](https://boottent.sayun.studio/camps)
+- 코드스테이츠
+  - [코드스테이츠 BE 44기. Section 1 마무리](https://cwhitestudy.tistory.com/34)
+  - [[SEB BE 44] Section 1 후기](https://memodayoungee.tistory.com/82)
+  - [[SEB BE 44] Section 2 회고록](https://memodayoungee.tistory.com/112)
 
-# © 저작권
+## :copyright: 저작권
 
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ko)
+- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ko)
