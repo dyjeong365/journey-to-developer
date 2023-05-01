@@ -25,3 +25,8 @@
 - [기글하드웨어](https://gigglehd.com/gg/)
 - [미니기기 코리아](https://meeco.kr/news)
 
+<br>
+
+# © 저작권
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ko)
