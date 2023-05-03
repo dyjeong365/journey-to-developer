@@ -9,6 +9,7 @@
 - [IT 뉴스](#newspaper_roll-it-뉴스)
 - [부트캠프](#camping-부트캠프)
 - [Java](#coffee-java)
+- [Kotlin](#basecamp-kotlin) 
 - [SQL](#dolphin-sql)
 - [Git](#octocat-git)
 - [오픈소스](#recycle-오픈소스)
@@ -31,6 +32,7 @@
 - [기글하드웨어](https://gigglehd.com/gg/)
 - [미니기기 코리아](https://meeco.kr/news)
 - [블로터](https://www.bloter.net/news/articleList.html?page=1&total=28027&sc_section_code=S1N4&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm)
+- [GeekNews](https://news.hada.io/)
 
 ## :camping: 부트캠프
 
@@ -44,14 +46,18 @@
 
 - [Java® Platform, Standard Edition & Java Development Kit
 Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
-- [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
-- [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm/)
+- 메모리 관리
+  - [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
+  - [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm/)
+
+## :basecamp: Kotlin
+
+- [백엔드 개발자의 코틀린 입문기 - 코틀린이 얼마나 좋길래? 자바에서 옮겨가도 될까?](https://seolin.tistory.com/146)
 
 ## :dolphin: SQL
 
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
-
 
 ## :octocat: Git
 
