@@ -49,8 +49,9 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 ## :dolphin: SQL
 
-- [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
+- [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
+
 
 ## :octocat: Git
 
