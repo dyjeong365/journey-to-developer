@@ -8,8 +8,12 @@
 - [인공지능](#robot-인공지능)
 - [IT 뉴스](#newspaper_roll-it-뉴스)
 - [부트캠프](#camping-부트캠프)
+- [Java](#coffee-java)
+- [SQL](#dolphin-sql)
+- [Git](#octocat-git)
 - [오픈소스](#recycle-오픈소스)
 - [저작권](#copyright-저작권)
+
 
 ## :robot: 인공지능
 
@@ -35,10 +39,25 @@
   - [코드스테이츠 BE 44기. Section 1 마무리](https://cwhitestudy.tistory.com/34)
   - [[SEB BE 44] Section 1 후기](https://memodayoungee.tistory.com/82)
   - [[SEB BE 44] Section 2 회고록](https://memodayoungee.tistory.com/112)
+
+## :coffee: Java
+
+- [Java® Platform, Standard Edition & Java Development Kit
+Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+- [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
+- [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm/)
+
+## :dolphin: SQL
+
+- [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
+- [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
+
+## :octocat: Git
+
+- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
   
 ## :recycle: 오픈소스
 
-- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
 - [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
 - [오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/)
 - [Choose an open source license](https://choosealicense.com/)
