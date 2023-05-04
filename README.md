@@ -25,6 +25,7 @@
 - [Bing Chat](https://www.bing.com/ck/a?!&&p=a1dd48c5315149a1JmltdHM9MTY4MjgxMjgwMCZpZ3VpZD0wY2YyZDA1Ni1iODI1LTZiZDEtMTA1OS1jMzU1YjkwZDZhOTUmaW5zaWQ9NTE3OQ&ptn=3&hsh=3&fclid=0cf2d056-b825-6bd1-1059-c355b90d6a95&psq=bing+chat&u=a1aHR0cHM6Ly9iaW5nLmNvbS9jaGF0&ntb=1)
   - [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
 - [Bard](https://bard.google.com/)
+- [DeepL 번역](https://www.deepl.com/translator)
 
 ## :newspaper_roll: IT 뉴스
 
@@ -62,6 +63,7 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 ## :octocat: Git
 
+- [GITn](https://opentutorials.org/course/3838)
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
   
 ## :recycle: 오픈소스
