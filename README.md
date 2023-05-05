@@ -8,6 +8,7 @@
 - [인공지능](#robot-인공지능)
 - [IT 뉴스](#newspaper_roll-it-뉴스)
 - [부트캠프](#camping-부트캠프)
+- [알고리즘](#triangular_ruler-알고리즘)
 - [Java](#coffee-java)
 - [Kotlin](#basecamp-kotlin) 
 - [SQL](#dolphin-sql)
@@ -22,7 +23,8 @@
   - [[Chrome Extension] ChatGPT for Google](https://abctech.tistory.com/55)
   - [프롬프트 지니](https://www.promptgenie.ai/)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
-- [Bing Chat](https://www.bing.com/ck/a?!&&p=a1dd48c5315149a1JmltdHM9MTY4MjgxMjgwMCZpZ3VpZD0wY2YyZDA1Ni1iODI1LTZiZDEtMTA1OS1jMzU1YjkwZDZhOTUmaW5zaWQ9NTE3OQ&ptn=3&hsh=3&fclid=0cf2d056-b825-6bd1-1059-c355b90d6a95&psq=bing+chat&u=a1aHR0cHM6Ly9iaW5nLmNvbS9jaGF0&ntb=1)
+  - [AskUp](https://pf.kakao.com/_BhxkWxj)
+- [Bing Chat](https://binged.it/3nvoBl4)
   - [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
 - [Bard](https://bard.google.com/)
 - [DeepL 번역](https://www.deepl.com/translator)
@@ -32,7 +34,7 @@
 - [클리앙](https://www.clien.net/service/board/news)
 - [기글하드웨어](https://gigglehd.com/gg/)
 - [미니기기 코리아](https://meeco.kr/news)
-- [블로터](https://www.bloter.net/news/articleList.html?page=1&total=28027&sc_section_code=S1N4&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm)
+- [블로터](https://bit.ly/3HGG3d7)
 - [GeekNews](https://news.hada.io/)
 - [hn.cho.sh](https://github.com/anaclumos/hn.cho.sh)
 
@@ -43,6 +45,10 @@
   - [코드스테이츠 BE 44기. Section 1 마무리](https://cwhitestudy.tistory.com/34)
   - [[SEB BE 44] Section 1 후기](https://memodayoungee.tistory.com/82)
   - [[SEB BE 44] Section 2 회고록](https://memodayoungee.tistory.com/112)
+  
+## :triangular_ruler: 알고리즘
+
+- [코딩 테스트 및 알고리즘 문제해결 공부 방법](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
 
 ## :coffee: Java
 
