@@ -5,6 +5,7 @@
 
 ## 목차
 
+- [추천](#star-추천)
 - [인공지능](#robot-인공지능)
 - [IT 뉴스](#newspaper_roll-it-뉴스)
 - [부트캠프](#camping-부트캠프)
@@ -16,6 +17,9 @@
 - [오픈소스](#recycle-오픈소스)
 - [저작권](#copyright-저작권)
 
+## :star: 추천
+
+- [생활코딩](https://opentutorials.org/course/1)
 
 ## :robot: 인공지능
 
