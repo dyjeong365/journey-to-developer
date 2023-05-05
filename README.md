@@ -1,7 +1,12 @@
+<!-- 이모지 참고
+https://github.com/ikatyang/emoji-cheat-sheet
+-->
 
 # journey-to-developer
 
 평소 IT 관련해서 많이 북마크 하는데, 이를 모두에게 공유하기 위해 작성합니다.
+
+[해당 문서에 기여하기](https://github.com/dyjeong365/journey-to-developer/blob/main/docs/CONTRIBUTING.md)
 
 ## 목차
 
@@ -74,7 +79,6 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 ## :octocat: Git
 
 - [GITn](https://opentutorials.org/course/3838)
-- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion)
   
 ## :recycle: 오픈소스
 
