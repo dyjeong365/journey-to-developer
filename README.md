@@ -33,7 +33,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [프롬프트 지니](https://www.promptgenie.ai/)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
   - [AskUp](https://pf.kakao.com/_BhxkWxj)
-- [Bing Chat](https://binged.it/3nvoBl4)
+- [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
   - [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
 - [Bard](https://bard.google.com/)
 - [DeepL 번역](https://www.deepl.com/translator)
@@ -43,7 +43,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [클리앙](https://www.clien.net/service/board/news)
 - [기글하드웨어](https://gigglehd.com/gg/)
 - [미니기기 코리아](https://meeco.kr/news)
-- [블로터](https://bit.ly/3HGG3d7)
+- [블로터](https://www.bloter.net/news/articleList.html?page=1&total=28027&sc_section_code=S1N4&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm)
 - [GeekNews](https://news.hada.io/)
 - [hn.cho.sh](https://github.com/anaclumos/hn.cho.sh)
 
