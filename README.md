@@ -6,11 +6,13 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 평소 IT 관련해서 많이 북마크 하는데, 이를 모두에게 공유하기 위해 작성합니다.
 
+도움이 되셨다면 :star: Star를 눌러주세요!
+
 [해당 문서에 기여하기](https://github.com/dyjeong365/journey-to-developer/blob/main/docs/CONTRIBUTING.md)
 
 ## 목차
 
-- [추천](#star-추천)
+- [추천](#star2-추천)
 - [인공지능](#robot-인공지능)
 - [IT 뉴스](#newspaper_roll-it-뉴스)
 - [부트캠프](#camping-부트캠프)
@@ -22,7 +24,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [오픈소스](#recycle-오픈소스)
 - [저작권](#copyright-저작권)
 
-## :star: 추천
+## :star2: 추천
 
 - [생활코딩](https://opentutorials.org/course/1)
 
@@ -58,9 +60,14 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :triangular_ruler: 알고리즘
 
 - [코딩 테스트 및 알고리즘 문제해결 공부 방법](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
+- [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=1&statuses=unsolved&languages=java)
+- [새싹](https://solved.ac/problems/sprout)
+- [[IntelliJ IDEA] 간편한 백준 문제 풀이를 위한 입출력 조정](https://abctech.tistory.com/80)
+- [백준허브](https://github.com/BaekjoonHub/BaekjoonHub)
 
 ## :coffee: Java
 
+- [점프 투 자바](https://wikidocs.net/book/31)
 - [Java® Platform, Standard Edition & Java Development Kit
 Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 - 메모리 관리
@@ -75,6 +82,7 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
+- [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
 
 ## :octocat: Git
 
