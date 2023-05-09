@@ -6,10 +6,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 평소 IT 관련해서 많이 북마크 하는데, 이를 모두에게 공유하기 위해 작성합니다.
 
-도움이 되셨다면 :star: Star를 눌러주세요!
-
-[해당 문서에 기여하기](https://github.com/dyjeong365/journey-to-developer/blob/main/docs/CONTRIBUTING.md)
-
 ## 목차
 
 - [추천](#star2-추천)
@@ -19,9 +15,10 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [알고리즘](#triangular_ruler-알고리즘)
 - [Java](#coffee-java)
 - [Kotlin](#basecamp-kotlin) 
-- [SQL](#dolphin-sql)
+- [SQL](#dolphin-데이터베이스)
 - [Git](#octocat-git)
 - [오픈소스](#recycle-오픈소스)
+- [기여하기](#tada-기여하기)
 - [저작권](#copyright-저작권)
 
 ## :star2: 추천
@@ -78,7 +75,7 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 - [백엔드 개발자의 코틀린 입문기 - 코틀린이 얼마나 좋길래? 자바에서 옮겨가도 될까?](https://seolin.tistory.com/146)
 
-## :dolphin: SQL
+## :dolphin: 데이터베이스
 
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
@@ -94,6 +91,10 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 - [오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/)
 - [Choose an open source license](https://choosealicense.com/)
 - [오픈소스SW 라이선스 종합정보시스템](https://www.olis.or.kr/license/introduction.do)
+
+## :tada: 기여하기
+
+[해당 문서에 기여하는 방법](https://github.com/dyjeong365/journey-to-developer/blob/main/docs/CONTRIBUTING.md)
 
 ## :copyright: 저작권
 
