@@ -15,7 +15,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [알고리즘](#triangular_ruler-알고리즘)
 - [Java](#coffee-java)
 - [Kotlin](#basecamp-kotlin) 
-- [SQL](#dolphin-데이터베이스)
+- [데이터베이스](#dolphin-데이터베이스)
 - [Git](#octocat-git)
 - [오픈소스](#recycle-오픈소스)
 - [기여하기](#tada-기여하기)
