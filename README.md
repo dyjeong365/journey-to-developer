@@ -45,6 +45,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [블로터](https://www.bloter.net/news/articleList.html?page=1&total=28027&sc_section_code=S1N4&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm)
 - [GeekNews](https://news.hada.io/)
 - [hn.cho.sh](https://github.com/anaclumos/hn.cho.sh)
+- [보안뉴스](https://www.boannews.com/media/t_list.asp)
 
 ## :camping: 부트캠프
 
