@@ -4,7 +4,9 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 # journey-to-developer
 
-평소 IT 관련해서 많이 북마크 하는데, 이를 모두에게 공유하기 위해 작성합니다.
+:tada: 개발자로서 첫출발을 환영합니다.
+
+하나하나 직접 읽고, 듣고, 체험하며 만족도가 높았던 정보들을 공유합니다!
 
 ## 목차
 
