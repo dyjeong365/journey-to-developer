@@ -16,6 +16,9 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Java](#coffee-java)
 - [Kotlin](#basecamp-kotlin) 
 - [데이터베이스](#dolphin-데이터베이스)
+- [네트워크](#spider_web-네트워크)
+- [보안](#shield-보안)
+- [Linux](#penguin-linux)
 - [Git](#octocat-git)
 - [오픈소스](#recycle-오픈소스)
 - [기여하기](#tada-기여하기)
@@ -24,6 +27,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :star2: 추천
 
 - [생활코딩](https://opentutorials.org/course/1)
+- [Developer Roadmaps](https://roadmap.sh/)
 
 ## :robot: 인공지능
 
@@ -54,6 +58,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [코드스테이츠 BE 44기. Section 1 마무리](https://cwhitestudy.tistory.com/34)
   - [[SEB BE 44] Section 1 후기](https://memodayoungee.tistory.com/82)
   - [[SEB BE 44] Section 2 회고록](https://memodayoungee.tistory.com/112)
+  - [[SEB BE 44] Section 3 회고록](https://memodayoungee.tistory.com/131)
   
 ## :triangular_ruler: 알고리즘
 
@@ -82,9 +87,23 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
 - [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
 
+## :spider_web: 네트워크
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+## :shield: 보안
+
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [지원종료날짜](https://endoflife.date/)
+
+## :penguin: Linux
+
+- [POSIX CLI1](https://opentutorials.org/module/3747)
+
 ## :octocat: Git
 
 - [GITn](https://opentutorials.org/course/3838)
+- [git - reflog](https://www.youtube.com/watch?v=1OihCn5BoT4&list=PL5yULGcWnTI5wGqyrSCfRwlEgk9h4QWb6&index=9)
   
 ## :recycle: 오픈소스
 
