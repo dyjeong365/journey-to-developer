@@ -21,6 +21,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [네트워크](#spider_web-네트워크)
 - [보안](#shield-보안)
 - [Linux](#penguin-linux)
+- [macOS](#apple-macos)
 - [Git](#octocat-git)
 - [오픈소스](#recycle-오픈소스)
 - [기여하기](#tada-기여하기)
@@ -67,7 +68,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [코딩 테스트 및 알고리즘 문제해결 공부 방법](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
 - [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=1&statuses=unsolved&languages=java)
 - [새싹](https://solved.ac/problems/sprout)
-- [[IntelliJ IDEA] 간편한 백준 문제 풀이를 위한 입출력 조정](https://abctech.tistory.com/80)
+- [IntelliJ IDEA - 간편한 백준 문제 풀이를 위한 입출력 조정](https://abctech.tistory.com/80)
 - [백준허브](https://github.com/BaekjoonHub/BaekjoonHub)
 
 ## :coffee: Java
@@ -101,6 +102,11 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 ## :penguin: Linux
 
 - [POSIX CLI1](https://opentutorials.org/module/3747)
+- [커맨드라인 사용법: 따라하며 배우는 리눅스 명령어와 관습들](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
+
+## :apple: macOS
+
+- [M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ## :octocat: Git
 
