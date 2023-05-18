@@ -70,6 +70,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [새싹](https://solved.ac/problems/sprout)
 - [IntelliJ IDEA - 간편한 백준 문제 풀이를 위한 입출력 조정](https://abctech.tistory.com/80)
 - [백준허브](https://github.com/BaekjoonHub/BaekjoonHub)
+- [LeetHub](https://github.com/QasimWani/LeetHub)
+  - [New LeetCode UI #366](https://github.com/QasimWani/LeetHub/issues/366#issuecomment-1272503772)
 
 ## :coffee: Java
 
@@ -92,10 +94,13 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 ## :spider_web: 네트워크
 
+- [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ## :shield: 보안
 
+- [WEB2 - OAuth 2.0](https://opentutorials.org/module/3668)
+- [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [지원종료날짜](https://endoflife.date/)
 
@@ -107,6 +112,7 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 ## :apple: macOS
 
 - [M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [Terminal slow to start first time due to xcodebuild](https://stackoverflow.com/questions/65846945/terminal-slow-to-start-first-time-due-to-xcodebuild)
 
 ## :octocat: Git
 
@@ -122,7 +128,7 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 ## :tada: 기여하기
 
-[해당 문서에 기여하는 방법](https://github.com/dyjeong365/journey-to-developer/blob/main/docs/CONTRIBUTING.md)
+[CONTRIBUTING.md](https://github.com/dyjeong365/journey-to-developer/blob/main/docs/CONTRIBUTING.md)
 
 ## :copyright: 저작권
 
