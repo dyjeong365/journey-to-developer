@@ -112,7 +112,7 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 ## :apple: macOS
 
 - [M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-- [Terminal slow to start first time due to xcodebuild](https://stackoverflow.com/questions/65846945/terminal-slow-to-start-first-time-due-to-xcodebuild)
+- [Terminal slow to start first time due to xcodebuild](https://stackoverflow.com/a/68076871/20296604)
 
 ## :octocat: Git
 
