@@ -90,7 +90,10 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
-- [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
+- 코딩테스트
+  - [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
+  - [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+
 
 ## :spider_web: 네트워크
 
