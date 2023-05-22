@@ -4,9 +4,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 # journey-to-developer
 
-:tada: 개발자로서 첫출발을 환영합니다!
-
-만족도가 높았던 정보들을 공유합니다.
+### :tada: 개발자로서 첫출발을 환영합니다! 
+수집한 정보들 중 만족도가 높았던 정보들을 공유합니다.
 
 ## 목차
 
@@ -100,7 +99,6 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
   - [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
   - [SQL 50](https://leetcode.com/studyplan/top-sql-50)
 
-
 ## :spider_web: 네트워크
 
 - [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
@@ -111,7 +109,7 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 - [WEB2 - OAuth 2.0](https://opentutorials.org/module/3668)
 - [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
-- [지원종료날짜](https://endoflife.date/)
+- [지원종료날짜](https://endoflife.date)
 
 ## :penguin: Linux
 
@@ -125,7 +123,7 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 ## :octocat: Git
 
 - [github](https://opentutorials.org/module/4636)
-- [GITn](https://opentutorials.org/course/3838)
+- [GIT1](https://opentutorials.org/module/3733)
 - [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
 - [git - reflog](https://www.youtube.com/watch?v=1OihCn5BoT4&list=PL5yULGcWnTI5wGqyrSCfRwlEgk9h4QWb6&index=9)
 - [GIT3 - CLI 백업](https://opentutorials.org/module/3801)
