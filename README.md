@@ -6,7 +6,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 :tada: 개발자로서 첫출발을 환영합니다!
 
-평소 즐겨찾기에 수집하던 정보들 중 만족도가 높았던 정보들을 공유합니다.
+만족도가 높았던 정보들을 공유합니다.
 
 ## 목차
 
@@ -36,21 +36,24 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 - [ChatGPT](https://chat.openai.com/chat)
   - [[Chrome Extension] ChatGPT for Google](https://abctech.tistory.com/55)
-  - [프롬프트 지니](https://www.promptgenie.ai/)
+  - [프롬프트 지니](https://www.promptgenie.ai)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
   - [AskUp](https://pf.kakao.com/_BhxkWxj)
+- [Forefront Chat](https://chat.forefront.ai) 
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
   - [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
-- [Bard](https://bard.google.com/)
+- [Bard](https://bard.google.com)
 - [DeepL 번역](https://www.deepl.com/translator)
+  - [Chrome 웹 스토어](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
+  - [Edge 추가 기능](https://microsoftedge.microsoft.com/addons/detail/deepl-translate-reading-/fancfknaplihpclbhbpclnmmjcjanbaf)
 
 ## :newspaper_roll: IT 뉴스
 
 - [클리앙](https://www.clien.net/service/board/news)
-- [기글하드웨어](https://gigglehd.com/gg/)
+- [기글하드웨어](https://gigglehd.com/gg)
 - [미니기기 코리아](https://meeco.kr/news)
 - [블로터](https://www.bloter.net/news/articleList.html?page=1&total=28027&sc_section_code=S1N4&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm)
-- [GeekNews](https://news.hada.io/)
+- [GeekNews](https://news.hada.io)
 - [hn.cho.sh](https://github.com/anaclumos/hn.cho.sh)
 - [보안뉴스](https://www.boannews.com/media/t_list.asp)
 
@@ -80,25 +83,28 @@ https://github.com/ikatyang/emoji-cheat-sheet
 Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 - 메모리 관리
   - [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
-  - [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm/)
+  - [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm)
 
 ## :basecamp: Kotlin
 
 - [백엔드 개발자의 코틀린 입문기 - 코틀린이 얼마나 좋길래? 자바에서 옮겨가도 될까?](https://seolin.tistory.com/146)
 
 ## :dolphin: 데이터베이스
-
-- [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
-- [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/)
+- [DATABASE1](https://opentutorials.org/course/3162)
+- [MySQL](https://opentutorials.org/course/3161)
+- [관계형 데이터 모델링](https://opentutorials.org/module/4134)
+- [SQL Join](https://opentutorials.org/module/4118)
+- [SQL Joins Visualizer](https://sql-joins.leopard.in.ua)
+- [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en)
 - 코딩테스트
   - [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
-  - [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+  - [SQL 50](https://leetcode.com/studyplan/top-sql-50)
 
 
 ## :spider_web: 네트워크
 
 - [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US)
 
 ## :shield: 보안
 
@@ -115,18 +121,24 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 ## :apple: macOS
 
 - [M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-- [Terminal slow to start first time due to xcodebuild](https://stackoverflow.com/a/68076871/20296604)
 
 ## :octocat: Git
 
+- [github](https://opentutorials.org/module/4636)
 - [GITn](https://opentutorials.org/course/3838)
+- [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
 - [git - reflog](https://www.youtube.com/watch?v=1OihCn5BoT4&list=PL5yULGcWnTI5wGqyrSCfRwlEgk9h4QWb6&index=9)
+- [GIT3 - CLI 백업](https://opentutorials.org/module/3801)
+- [GIT3 - CLI Branch & 충돌](https://opentutorials.org/module/3927)
+- [GIT4 - CLI 협업](https://opentutorials.org/module/3967)
+- [github.com - pull request](https://opentutorials.org/module/5083)
+- [GIT4 - Reset & Revert](https://opentutorials.org/module/4032)
   
 ## :recycle: 오픈소스
 
-- [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
-- [오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/)
-- [Choose an open source license](https://choosealicense.com/)
+- [Starting an Open Source Project](https://opensource.guide/starting-a-project)
+- [오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book)
+- [Choose an open source license](https://choosealicense.com)
 - [오픈소스SW 라이선스 종합정보시스템](https://www.olis.or.kr/license/introduction.do)
 
 ## :tada: 기여하기
