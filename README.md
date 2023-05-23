@@ -22,6 +22,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Linux](#penguin-linux)
 - [macOS](#apple-macos)
 - [Git](#octocat-git)
+- [AWS](#cloud-aws)
 - [오픈소스](#recycle-오픈소스)
 - [기여하기](#tada-기여하기)
 - [저작권](#copyright-저작권)
@@ -131,6 +132,9 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 - [GIT4 - CLI 협업](https://opentutorials.org/module/3967)
 - [github.com - pull request](https://opentutorials.org/module/5083)
 - [GIT4 - Reset & Revert](https://opentutorials.org/module/4032)
+
+## :cloud: AWS
+- [AWS1](https://opentutorials.org/module/3814)
   
 ## :recycle: 오픈소스
 
