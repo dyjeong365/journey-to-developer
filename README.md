@@ -90,10 +90,11 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 - [백엔드 개발자의 코틀린 입문기 - 코틀린이 얼마나 좋길래? 자바에서 옮겨가도 될까?](https://seolin.tistory.com/146)
 
 ## :dolphin: 데이터베이스
-- [DATABASE1](https://opentutorials.org/course/3162)
-- [MySQL](https://opentutorials.org/course/3161)
-- [관계형 데이터 모델링](https://opentutorials.org/module/4134)
-- [SQL Join](https://opentutorials.org/module/4118)
+- 생활코딩
+  - [DATABASE1](https://opentutorials.org/course/3162)
+  - [MySQL](https://opentutorials.org/course/3161)
+  - [관계형 데이터 모델링](https://opentutorials.org/module/4134)
+  - [SQL Join](https://opentutorials.org/module/4118)
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua)
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en)
 - 코딩테스트
@@ -102,19 +103,22 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 ## :spider_web: 네트워크
 
-- [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
+- 생활코딩
+  - [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
 - [MDN Web Docs](https://developer.mozilla.org/en-US)
 
 ## :shield: 보안
 
-- [WEB2 - OAuth 2.0](https://opentutorials.org/module/3668)
-- [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
+- 생활코딩
+  - [WEB2 - OAuth 2.0](https://opentutorials.org/module/3668)
+  - [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [지원종료날짜](https://endoflife.date)
 
 ## :penguin: Linux
 
-- [POSIX CLI1](https://opentutorials.org/module/3747)
+- 생활코딩
+  - [POSIX CLI1](https://opentutorials.org/module/3747)
 - [커맨드라인 사용법: 따라하며 배우는 리눅스 명령어와 관습들](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
 
 ## :apple: macOS
@@ -123,18 +127,21 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 ## :octocat: Git
 
-- [github](https://opentutorials.org/module/4636)
-- [GIT1](https://opentutorials.org/module/3733)
-- [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
-- [git - reflog](https://www.youtube.com/watch?v=1OihCn5BoT4&list=PL5yULGcWnTI5wGqyrSCfRwlEgk9h4QWb6&index=9)
-- [GIT3 - CLI 백업](https://opentutorials.org/module/3801)
-- [GIT3 - CLI Branch & 충돌](https://opentutorials.org/module/3927)
-- [GIT4 - CLI 협업](https://opentutorials.org/module/3967)
-- [github.com - pull request](https://opentutorials.org/module/5083)
-- [GIT4 - Reset & Revert](https://opentutorials.org/module/4032)
+- 생활코딩
+  - [github](https://opentutorials.org/module/4636)
+  - [GIT1](https://opentutorials.org/module/3733)
+  - [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
+  - [git - reflog](https://www.youtube.com/watch?v=1OihCn5BoT4&list=PL5yULGcWnTI5wGqyrSCfRwlEgk9h4QWb6&index=9)
+  - [GIT3 - CLI 백업](https://opentutorials.org/module/3801)
+  - [GIT3 - CLI Branch & 충돌](https://opentutorials.org/module/3927)
+  - [GIT4 - CLI 협업](https://opentutorials.org/module/3967)
+  - [github.com - pull request](https://opentutorials.org/module/5083)
+  - [GIT4 - Reset & Revert](https://opentutorials.org/module/4032)
 
 ## :cloud: AWS
-- [AWS1](https://opentutorials.org/module/3814)
+- 생활코딩
+  - [AWS1](https://opentutorials.org/module/3814)
+  - [AWS - RDS](https://opentutorials.org/module/3860)
   
 ## :recycle: 오픈소스
 
