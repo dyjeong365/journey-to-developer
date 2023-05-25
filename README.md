@@ -35,15 +35,15 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :robot: 인공지능
 
 - [ChatGPT](https://chat.openai.com/chat)
-  - [App Store](https://apps.apple.com/kr/app/chatgpt/id6448311069) 
-  - [[Chrome Extension] ChatGPT for Google](https://abctech.tistory.com/55)
+  - [Chrome 확장 프로그램 - ChatGPT for Google](https://abctech.tistory.com/55)
   - [프롬프트 지니](https://www.promptgenie.ai)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
-  - [AskUp](https://pf.kakao.com/_BhxkWxj)
+  - [App Store](https://apps.apple.com/kr/app/chatgpt/id6448311069) 
 - [Forefront Chat](https://chat.forefront.ai) 
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
   - [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
 - [Bard](https://bard.google.com)
+- [AskUp](https://pf.kakao.com/_BhxkWxj)
 - [DeepL 번역](https://www.deepl.com/translator)
   - [Chrome 웹 스토어](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
   - [Edge 추가 기능](https://microsoftedge.microsoft.com/addons/detail/deepl-translate-reading-/fancfknaplihpclbhbpclnmmjcjanbaf)
