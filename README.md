@@ -142,8 +142,10 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 - 생활코딩
   - [AWS1](https://opentutorials.org/module/3814)
   - [AWS - RDS](https://opentutorials.org/module/3860)
+  - [AWS - EC2 기본 사용법](https://www.youtube.com/watch?v=Pv2yDJ2NKQA)
   - [AWS2 - S3](https://opentutorials.org/module/3815)
   - [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
+  - [AWS - CloudFront](https://opentutorials.org/module/3838)
   
 ## :recycle: 오픈소스
 
