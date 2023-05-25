@@ -35,6 +35,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :robot: 인공지능
 
 - [ChatGPT](https://chat.openai.com/chat)
+  - [App Store](https://apps.apple.com/kr/app/chatgpt/id6448311069) 
   - [[Chrome Extension] ChatGPT for Google](https://abctech.tistory.com/55)
   - [프롬프트 지니](https://www.promptgenie.ai)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
