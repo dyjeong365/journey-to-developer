@@ -106,6 +106,7 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 - 생활코딩
   - [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
+  - [JMeter을 이용해서 웹서버 성능 테스트하기](https://www.youtube.com/watch?v=1AyxqIePusA)
 - [MDN Web Docs](https://developer.mozilla.org/en-US)
 
 ## :shield: 보안
@@ -147,6 +148,10 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
   - [AWS2 - S3](https://opentutorials.org/module/3815)
   - [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
   - [AWS - CloudFront](https://opentutorials.org/module/3838)
+  - [AWS2 - Route53](https://opentutorials.org/module/3898)
+  - [AWS - Elastic Load Balancer (ELB)](https://www.youtube.com/watch?v=s9FHdj6jd_U)
+  - [AWS Launch Template 사용법](https://www.youtube.com/watch?v=ue7Rk20p_EA)
+  - [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling](https://www.youtube.com/watch?v=_1Yqk-fLkec)
   
 ## :recycle: 오픈소스
 
