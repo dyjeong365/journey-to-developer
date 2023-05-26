@@ -164,8 +164,8 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
 
 ## :tada: 기여하기
 
-[CONTRIBUTING.md](https://github.com/dyjeong365/journey-to-developer/blob/main/docs/CONTRIBUTING.md)
+[CONTRIBUTING.md](docs/CONTRIBUTING.md)
 
 ## :copyright: 저작권
 
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ko)
+[CC BY-SA 4.0](LICENSE)
