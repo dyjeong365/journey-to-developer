@@ -108,10 +108,12 @@ Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api
   - [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
   - [JMeter을 이용해서 웹서버 성능 테스트하기](https://www.youtube.com/watch?v=1AyxqIePusA)
 - [MDN Web Docs](https://developer.mozilla.org/en-US)
+- [Apache? Tomcat?? 둘이 무슨 차이지?](https://velog.io/@kdhyo/Apache-Tomcat-%EB%91%98%EC%9D%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%A7%80)
 
 ## :shield: 보안
 
 - 생활코딩
+  - [암호학](https://opentutorials.org/module/5250)
   - [WEB2 - OAuth 2.0](https://opentutorials.org/module/3668)
   - [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
