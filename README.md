@@ -36,13 +36,13 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :robot: 인공지능
 
 - [ChatGPT](https://chat.openai.com/chat)
-  - [Chrome 확장 프로그램 - ChatGPT for Google](https://abctech.tistory.com/55)
+  - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
   - [프롬프트 지니](https://www.promptgenie.ai)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
   - [App Store](https://apps.apple.com/kr/app/chatgpt/id6448311069) 
 - [Forefront Chat](https://chat.forefront.ai) 
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
-  - [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers)
+  - [Bing Chat for All Browsers](https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo)
 - [Bard](https://bard.google.com)
 - [AskUp](https://pf.kakao.com/_BhxkWxj)
 - [DeepL 번역](https://www.deepl.com/translator)
@@ -72,16 +72,15 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [코딩 테스트 및 알고리즘 문제해결 공부 방법](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
 - [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=1&statuses=unsolved&languages=java)
 - [새싹](https://solved.ac/problems/sprout)
-- [IntelliJ IDEA - 간편한 백준 문제 풀이를 위한 입출력 조정](https://abctech.tistory.com/80)
-- [백준허브](https://github.com/BaekjoonHub/BaekjoonHub)
-- [LeetHub](https://github.com/QasimWani/LeetHub)
+- [[Java / IntelliJ] 인텔리제이 입출력 txt로 받기](https://ddingmin00.tistory.com/60)
+- [백준허브](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko)
+- [LeetHub](https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi)
   - [New LeetCode UI #366](https://github.com/QasimWani/LeetHub/issues/366#issuecomment-1272503772)
 
 ## :coffee: Java
 
 - [점프 투 자바](https://wikidocs.net/book/31)
-- [Java® Platform, Standard Edition & Java Development Kit
-Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+- [Java® Platform, Standard Edition & Java Development Kit Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 - 메모리 관리
   - [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
   - [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm)
