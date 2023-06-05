@@ -45,6 +45,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [Bing Chat for All Browsers](https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo)
 - [Bard](https://bard.google.com)
 - [AskUp](https://pf.kakao.com/_BhxkWxj)
+- [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
 - [DeepL 번역](https://www.deepl.com/translator)
   - [Chrome 웹 스토어](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
   - [Edge 추가 기능](https://microsoftedge.microsoft.com/addons/detail/deepl-translate-reading-/fancfknaplihpclbhbpclnmmjcjanbaf)
