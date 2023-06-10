@@ -127,6 +127,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :apple: macOS
 
+- [Mac 키보드 단축키](https://support.apple.com/ko-kr/HT201236)
 - [M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ## :octocat: Git
