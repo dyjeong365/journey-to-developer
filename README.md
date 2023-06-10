@@ -158,6 +158,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [AWS - Elastic Load Balancer (ELB)](https://www.youtube.com/watch?v=s9FHdj6jd_U)
   - [AWS Launch Template 사용법](https://www.youtube.com/watch?v=ue7Rk20p_EA)
   - [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling](https://www.youtube.com/watch?v=_1Yqk-fLkec)
+- [가상 데이터 센터 만들기 - VPC 기본 및 연결 옵션 - 양승도 솔루션즈 아키텍트(AWS 코리아)](https://www.youtube.com/watch?v=R1UWYQYTPKo&t=2735s)
 
 ## :whale: Docker
 - 생활코딩
