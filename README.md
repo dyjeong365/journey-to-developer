@@ -42,6 +42,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [App Store](https://apps.apple.com/kr/app/chatgpt/id6448311069) 
 - [Forefront Chat](https://chat.forefront.ai) 
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
+  - [Bing Chat for All Browsers](https://chrome.google.com/webstore/detail/bing-chat-for-all-browser/jofbglonpbndadajbafmmaklbfbkggpo)
 - [AskUp](https://pf.kakao.com/_BhxkWxj)
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
 - [DeepL 번역](https://www.deepl.com/translator)
