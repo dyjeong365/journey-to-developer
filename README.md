@@ -141,6 +141,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [git - reflog](https://www.youtube.com/watch?v=1OihCn5BoT4&list=PL5yULGcWnTI5wGqyrSCfRwlEgk9h4QWb6&index=9)
   - [GIT3 - CLI 백업](https://opentutorials.org/module/3801)
   - [GIT3 - CLI Branch & 충돌](https://opentutorials.org/module/3927)
+  - [git flow model](https://www.youtube.com/watch?v=EzcF6RX8RrQ)
   - [GIT4 - CLI 협업](https://opentutorials.org/module/3967)
   - [github.com - pull request](https://opentutorials.org/module/5083)
   - [GIT4 - Reset & Revert](https://opentutorials.org/module/4032)
