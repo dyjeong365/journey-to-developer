@@ -137,6 +137,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [github](https://opentutorials.org/module/4636)
   - [GIT1](https://opentutorials.org/module/3733)
   - [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
+  - [GIT2 - SourceTree 버전관리편](https://www.youtube.com/playlist?list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg)
   - [git - reflog](https://www.youtube.com/watch?v=1OihCn5BoT4&list=PL5yULGcWnTI5wGqyrSCfRwlEgk9h4QWb6&index=9)
   - [GIT3 - CLI 백업](https://opentutorials.org/module/3801)
   - [GIT3 - CLI Branch & 충돌](https://opentutorials.org/module/3927)
