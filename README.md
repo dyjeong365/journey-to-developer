@@ -48,7 +48,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
 - [DeepL 번역](https://www.deepl.com/translator)
   - [Chrome 웹 스토어](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
-  - [Edge 추가 기능](https://microsoftedge.microsoft.com/addons/detail/deepl-translate-reading-/fancfknaplihpclbhbpclnmmjcjanbaf)
 
 ## :newspaper_roll: IT 뉴스
 
@@ -118,6 +117,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [JMeter을 이용해서 웹서버 성능 테스트하기](https://www.youtube.com/watch?v=1AyxqIePusA)
 - [MDN Web Docs](https://developer.mozilla.org/en-US)
 - [Apache? Tomcat?? 둘이 무슨 차이지?](https://velog.io/@kdhyo/Apache-Tomcat-%EB%91%98%EC%9D%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%A7%80)
+- [Understanding the Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
+- [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 
 ## :shield: 보안
 
