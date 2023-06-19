@@ -134,6 +134,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - 생활코딩
   - [POSIX CLI1](https://opentutorials.org/module/3747)
 - [커맨드라인 사용법: 따라하며 배우는 리눅스 명령어와 관습들](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
+- [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09](https://youtu.be/JbH-xzD7IkE)
 
 ## :apple: macOS
 
