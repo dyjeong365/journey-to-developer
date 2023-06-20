@@ -5,6 +5,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 # journey-to-developer
 
 ### :tada: 개발자로서 첫출발을 환영합니다! 
+
 수집한 정보들 중 만족도가 높았던 정보들을 공유합니다.
 
 ## 목차
@@ -93,12 +94,16 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [1) 스프링부트로 웹 서비스 출시하기 - 1. SpringBoot & Gradle & Github 프로젝트 생성하기](https://jojoldu.tistory.com/250)
   - [2) 스프링부트로 웹 서비스 출시하기 - 2. SpringBoot & JPA로 간단 API 만들기](https://jojoldu.tistory.com/251?category=635883)
   - [3) 스프링부트로 웹 서비스 출시하기 - 3. SpringBoot & Handlebars로 화면 만들기](https://jojoldu.tistory.com/255?category=635883)
+  - [4) 스프링부트로 웹 서비스 출시하기 - 4. AWS EC2 & RDS 구축하기](https://jojoldu.tistory.com/259?category=635883)
+  - [5) 스프링부트로 웹 서비스 출시하기 - 5. EC2에 배포하기](https://jojoldu.tistory.com/263?category=635883)
+    - [How do I allocate memory to work as swap space in an Amazon EC2 instance by using a swap file?](https://repost.aws/knowledge-center/ec2-memory-swap-file)
 
 ## :basecamp: Kotlin
 
 - [백엔드 개발자의 코틀린 입문기 - 코틀린이 얼마나 좋길래? 자바에서 옮겨가도 될까?](https://seolin.tistory.com/146)
 
 ## :dolphin: 데이터베이스
+
 - 생활코딩
   - [DATABASE1](https://opentutorials.org/course/3162)
   - [MySQL](https://opentutorials.org/course/3161)
@@ -159,6 +164,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [마크다운(Markdown) 6분 순삭 정리 + 깃허브 리드미(ReadMe) 파일 작성 팁 ⭐️](https://www.youtube.com/watch?v=kMEb_BzyUqk&list=WL&index=3)
 
 ## :cloud: AWS
+
 - 생활코딩
   - [AWS1](https://opentutorials.org/module/3814)
   - [AWS - RDS](https://opentutorials.org/module/3860)
@@ -171,8 +177,10 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [AWS Launch Template 사용법](https://www.youtube.com/watch?v=ue7Rk20p_EA)
   - [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling](https://www.youtube.com/watch?v=_1Yqk-fLkec)
 - [가상 데이터 센터 만들기 - VPC 기본 및 연결 옵션 - 양승도 솔루션즈 아키텍트(AWS 코리아)](https://www.youtube.com/watch?v=R1UWYQYTPKo&t=2735s)
+- [[AWS] RDS Connection timed out 연결 오류 해결 방법](https://gksdudrb922.tistory.com/240)
 
 ## :whale: Docker
+
 - 생활코딩
   - [생활코딩 Docker 입구 수업](https://opentutorials.org/course/4781)
   - [도커 : 이미지 만드는 법 - commit](https://www.youtube.com/watch?v=RMNOQXs-f68)
