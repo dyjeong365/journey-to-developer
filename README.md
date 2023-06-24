@@ -26,6 +26,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Git](#octocat-git)
 - [AWS](#cloud-aws)
 - [Docker](#whale-docker)
+- [협업](#speaking_head-협업)
 - [오픈소스](#recycle-오픈소스)
 - [기여하기](#tada-기여하기)
 - [저작권](#copyright-저작권)
@@ -187,6 +188,12 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [도커 : 이미지 만드는 법 - Dockerfile & build](https://www.youtube.com/watch?v=0kQC19w0gTI)
   - [Docker hub로 이미지 공유하기 (push)](https://www.youtube.com/watch?v=_38dU6GExDo)
   - [Docker compose 를 이용해서 복잡한 도커 컨테이너를 제어하기](https://www.youtube.com/watch?v=EK6iYRCIjYs)
+ 
+## :speaking_head: 협업
+
+- [What is a kanban board?](https://www.atlassian.com/agile/kanban/boards)
+- [Trello](https://trello.com/)
+- [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd?cicd=32h281b)
   
 ## :recycle: 오픈소스
 
