@@ -27,6 +27,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [AWS](#cloud-aws)
 - [Docker](#whale-docker)
 - [협업](#speaking_head-협업)
+- [이력서](#scroll-이력서)
 - [오픈소스](#recycle-오픈소스)
 - [기여하기](#tada-기여하기)
 - [저작권](#copyright-저작권)
@@ -70,6 +71,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [[SEB BE 44] Section 2 회고록](https://memodayoungee.tistory.com/112)
   - [[SEB BE 44] Section 3 회고록](https://memodayoungee.tistory.com/131)
   - [[SEB BE 44] Section 4 회고록](https://memodayoungee.tistory.com/149)
+- [국민취업지원제도](https://www.kua.go.kr/uaptm010/selectMain.do) 
   
 ## :triangular_ruler: 알고리즘
 
@@ -125,6 +127,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Apache? Tomcat?? 둘이 무슨 차이지?](https://velog.io/@kdhyo/Apache-Tomcat-%EB%91%98%EC%9D%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%A7%80)
 - [Understanding the Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
 - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+- [Chrome Platform Status](https://chromestatus.com/roadmap)
 
 ## :shield: 보안
 
@@ -192,8 +195,14 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :speaking_head: 협업
 
 - [What is a kanban board?](https://www.atlassian.com/agile/kanban/boards)
-- [Trello](https://trello.com/)
+- [Trello](https://trello.com)
 - [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd?cicd=32h281b)
+
+## :scroll: 이력서
+
+- [Resume: Yongwoo Yu](https://resume.yowu.dev)
+- [김찬연 기술 이력서](https://resume.chayeoi.site)
+- [박기제 이력서](https://realdeveloper.pro/kijepark)
   
 ## :recycle: 오픈소스
 
