@@ -12,7 +12,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 - [추천](#star2-추천)
 - [인공지능](#robot-인공지능)
-- [IT 뉴스](#newspaper_roll-it-뉴스)
+- [IT 뉴스](#newspaper_roll-rss)
 - [부트캠프](#camping-부트캠프)
 - [알고리즘](#triangular_ruler-알고리즘)
 - [Java](#coffee-java)
@@ -52,7 +52,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [DeepL 번역](https://www.deepl.com/translator)
   - [Chrome 웹 스토어](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
 
-## :newspaper_roll: IT 뉴스
+## :newspaper_roll: RSS
 
 - [클리앙](https://www.clien.net/service/board/news)
 - [기글하드웨어](https://gigglehd.com/gg)
@@ -61,6 +61,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [GeekNews](https://news.hada.io)
 - [hn.cho.sh](https://github.com/anaclumos/hn.cho.sh)
 - [보안뉴스](https://www.boannews.com/media/t_list.asp)
+- [기억보단 기록을](https://jojoldu.tistory.com)
+- [MangKyu's Diary](https://mangkyu.tistory.com)
 
 ## :camping: 부트캠프
 
@@ -107,7 +109,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :dolphin: 데이터베이스
 
-- 생활코딩
+- [생활코딩](https://opentutorials.org/course/1)
   - [DATABASE1](https://opentutorials.org/course/3162)
   - [MySQL](https://opentutorials.org/course/3161)
   - [관계형 데이터 모델링](https://opentutorials.org/module/4134)
@@ -120,27 +122,32 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :spider_web: 네트워크
 
-- 생활코딩
+- [생활코딩](https://opentutorials.org/course/1)
   - [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
   - [JMeter을 이용해서 웹서버 성능 테스트하기](https://www.youtube.com/watch?v=1AyxqIePusA)
 - [MDN Web Docs](https://developer.mozilla.org/en-US)
+  - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [Apache? Tomcat?? 둘이 무슨 차이지?](https://velog.io/@kdhyo/Apache-Tomcat-%EB%91%98%EC%9D%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%A7%80)
 - [Understanding the Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
 - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-- [Chrome Platform Status](https://chromestatus.com/roadmap)
+- Chrome
+  - [Chrome Platform Status](https://chromestatus.com/roadmap)
+  - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com)
+
 
 ## :shield: 보안
 
-- 생활코딩
+- [생활코딩](https://opentutorials.org/course/1)
   - [암호학](https://opentutorials.org/module/5250)
   - [WEB2 - OAuth 2.0](https://opentutorials.org/module/3668)
   - [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
-- [지원종료날짜](https://endoflife.date)
+- [endoflife.date](https://endoflife.date)
 
 ## :penguin: Linux
 
-- 생활코딩
+- [생활코딩](https://opentutorials.org/course/1)
   - [POSIX CLI1](https://opentutorials.org/module/3747)
 - [커맨드라인 사용법: 따라하며 배우는 리눅스 명령어와 관습들](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
 - [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09](https://youtu.be/JbH-xzD7IkE)
@@ -149,10 +156,11 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 - [Mac 키보드 단축키](https://support.apple.com/ko-kr/HT201236)
 - [M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [맥북의 파일 이름 일괄 변경 방법](https://dailyfun.kr/488)
 
 ## :octocat: Git
 
-- 생활코딩
+- [생활코딩](https://opentutorials.org/course/1)
   - [github](https://opentutorials.org/module/4636)
   - [GIT1](https://opentutorials.org/module/3733)
   - [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
@@ -169,7 +177,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :cloud: AWS
 
-- 생활코딩
+- [생활코딩](https://opentutorials.org/course/1)
   - [AWS1](https://opentutorials.org/module/3814)
   - [AWS - RDS](https://opentutorials.org/module/3860)
   - [AWS - EC2 기본 사용법](https://www.youtube.com/watch?v=Pv2yDJ2NKQA)
@@ -185,7 +193,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :whale: Docker
 
-- 생활코딩
+- [생활코딩](https://opentutorials.org/course/1)
   - [생활코딩 Docker 입구 수업](https://opentutorials.org/course/4781)
   - [도커 : 이미지 만드는 법 - commit](https://www.youtube.com/watch?v=RMNOQXs-f68)
   - [도커 : 이미지 만드는 법 - Dockerfile & build](https://www.youtube.com/watch?v=0kQC19w0gTI)
