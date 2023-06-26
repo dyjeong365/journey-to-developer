@@ -12,7 +12,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 - [추천](#star2-추천)
 - [인공지능](#robot-인공지능)
-- [IT 뉴스](#newspaper_roll-rss)
+- [RSS](#newspaper_roll-rss)
 - [부트캠프](#camping-부트캠프)
 - [알고리즘](#triangular_ruler-알고리즘)
 - [Java](#coffee-java)
