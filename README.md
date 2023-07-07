@@ -6,7 +6,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ### :tada: 개발자로서 첫출발을 환영합니다! 
 
-수집한 정보들 중 만족도가 높았던 정보들을 공유합니다.
+수집한 정보 중 만족도 높은 정보들을 공유합니다.
 
 ## 목차
 
