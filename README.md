@@ -26,7 +26,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Git](#octocat-git)
 - [AWS](#cloud-aws)
 - [Docker](#whale-docker)
-- [협업](#speaking_head-협업)
+- [기획](#speaking_head-기획)
 - [이력서](#scroll-이력서)
 - [오픈소스](#recycle-오픈소스)
 - [기여하기](#tada-기여하기)
@@ -45,6 +45,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
   - [App Store](https://apps.apple.com/kr/app/chatgpt/id6448311069)
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
+  - [Bing Chat sidebar for Chrome](https://chrome.google.com/webstore/detail/bing-chat-sidebar-for-chr/ncjedehfkpnliaafimjhdjjeggmfmlgf)
+  - [Google의 Bing 채팅(GPT-4)](https://chrome.google.com/webstore/detail/bing-chat-gpt-4-in-google/pcnhobmoglanpljipbomknafhdlcgcng)
 - [AskUp](https://pf.kakao.com/_BhxkWxj)
 - [Poe](https://poe.com)
 - [ChatHub - All-in-one chatbot client](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
@@ -63,6 +65,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [보안뉴스](https://www.boannews.com/media/t_list.asp)
 - [기억보단 기록을](https://jojoldu.tistory.com)
 - [MangKyu's Diary](https://mangkyu.tistory.com)
+- [커리어리](https://careerly.co.kr)
 
 ## :camping: 부트캠프
 
@@ -157,6 +160,11 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Mac 키보드 단축키](https://support.apple.com/ko-kr/HT201236)
 - [M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [맥북의 파일 이름 일괄 변경 방법](https://dailyfun.kr/488)
+- [[맥북] 시스템 초기 설정 2 - 파인더 설정 5가지](https://iyob.tistory.com/60)
+- [Homebrew를 사용해서 Mac 패키지를 관리하기](https://tutorialpost.apptilus.com/code/posts/tools/homebrew-for-mac)
+- [iTerm2](https://iterm2.com)
+  - [[Mac] iTerm2 설치 및 테마](https://velog.io/@mook9288/macRecord-005)
+  - [iTerm2 한글 자소분리 현상 해결](https://velog.io/@inyong_pang/MAC-macOS-iTerm2-%ED%95%9C%EA%B8%80-%EC%9E%90%EC%86%8C%EB%B6%84%EB%A6%AC-%ED%98%84%EC%83%81-%ED%95%B4%EA%B2%B0)
 
 ## :octocat: Git
 
@@ -200,11 +208,12 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [Docker hub로 이미지 공유하기 (push)](https://www.youtube.com/watch?v=_38dU6GExDo)
   - [Docker compose 를 이용해서 복잡한 도커 컨테이너를 제어하기](https://www.youtube.com/watch?v=EK6iYRCIjYs)
  
-## :speaking_head: 협업
+## :speaking_head: 기획
 
 - [What is a kanban board?](https://www.atlassian.com/agile/kanban/boards)
 - [Trello](https://trello.com)
 - [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd?cicd=32h281b)
+- [직관성을 높이는 세 가지 접근법](https://yozm.wishket.com/magazine/detail/1488)
 
 ## :scroll: 이력서
 
