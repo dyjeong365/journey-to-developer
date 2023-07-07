@@ -21,6 +21,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [데이터베이스](#dolphin-데이터베이스)
 - [네트워크](#spider_web-네트워크)
 - [보안](#shield-보안)
+- [Unix-like](#computer-unix-like)
 - [Linux](#penguin-linux)
 - [macOS](#apple-macos)
 - [Git](#octocat-git)
@@ -148,10 +149,13 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [endoflife.date](https://endoflife.date)
 
-## :penguin: Linux
+## :computer: Unix-like
 
 - [생활코딩](https://opentutorials.org/course/1)
   - [POSIX CLI1](https://opentutorials.org/module/3747)
+
+## :penguin: Linux
+
 - [커맨드라인 사용법: 따라하며 배우는 리눅스 명령어와 관습들](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
 - [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09](https://youtu.be/JbH-xzD7IkE)
 
