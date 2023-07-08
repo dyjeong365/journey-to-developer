@@ -48,8 +48,10 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
   - [Bing Chat sidebar for Chrome](https://chrome.google.com/webstore/detail/bing-chat-sidebar-for-chr/ncjedehfkpnliaafimjhdjjeggmfmlgf)
   - [Google의 Bing 채팅(GPT-4)](https://chrome.google.com/webstore/detail/bing-chat-gpt-4-in-google/pcnhobmoglanpljipbomknafhdlcgcng)
+  - [App Store](https://apps.apple.com/hu/app/bing-search/id345323231)
 - [AskUp](https://pf.kakao.com/_BhxkWxj)
 - [Poe](https://poe.com)
+  - [App Store](https://apps.apple.com/tr/app/poe-fast-ai-chat/id1640745955) 
 - [ChatHub - All-in-one chatbot client](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
 - [DeepL 번역](https://www.deepl.com/translator)
@@ -86,8 +88,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [새싹](https://solved.ac/problems/sprout)
 - [[Java / IntelliJ] 인텔리제이 입출력 txt로 받기](https://ddingmin00.tistory.com/60)
 - [백준허브](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko)
-- [LeetHub](https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi)
-  - [New LeetCode UI #366](https://github.com/QasimWani/LeetHub/issues/366#issuecomment-1272503772)
+- [LeetHub v2](https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm)
 
 ## :coffee: Java
 
