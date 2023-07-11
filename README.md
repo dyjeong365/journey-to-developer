@@ -46,7 +46,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
   - [App Store](https://apps.apple.com/kr/app/chatgpt/id6448311069)
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
-  - [Bing Chat sidebar for Chrome](https://chrome.google.com/webstore/detail/bing-chat-sidebar-for-chr/ncjedehfkpnliaafimjhdjjeggmfmlgf)
+  - [AI Chat sidebar for Chrome](https://chrome.google.com/webstore/detail/bing-chat-sidebar-for-chr/ncjedehfkpnliaafimjhdjjeggmfmlgf)
   - [Google의 Bing 채팅(GPT-4)](https://chrome.google.com/webstore/detail/bing-chat-gpt-4-in-google/pcnhobmoglanpljipbomknafhdlcgcng)
   - [App Store](https://apps.apple.com/hu/app/bing-search/id345323231)
 - [AskUp](https://pf.kakao.com/_BhxkWxj)
