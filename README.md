@@ -79,6 +79,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [[SEB BE 44] Section 2 회고록](https://memodayoungee.tistory.com/112)
   - [[SEB BE 44] Section 3 회고록](https://memodayoungee.tistory.com/131)
   - [[SEB BE 44] Section 4 회고록](https://memodayoungee.tistory.com/149)
+  - [[SEB BE 44] 코드 스테이츠 Pre Project 후기](https://memodayoungee.tistory.com/152)
 - [국민취업지원제도](https://www.kua.go.kr/uaptm010/selectMain.do) 
   
 ## :triangular_ruler: 알고리즘
