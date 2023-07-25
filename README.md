@@ -223,6 +223,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Trello](https://trello.com)
 - [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd?cicd=32h281b)
 - [직관성을 높이는 세 가지 접근법](https://yozm.wishket.com/magazine/detail/1488)
+- [신입 개발자가 알아두면 좋은 IT 애자일 프로젝트 용어 (칸반보드, 간트차트, 스크럼)](https://www.codestates.com/blog/content/%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%A9%EC%96%B4)
 
 ## :scroll: 이력서
 
