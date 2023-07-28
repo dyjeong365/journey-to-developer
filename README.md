@@ -191,6 +191,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [GIT4 - Reset & Revert](https://opentutorials.org/module/4032)
   - [github.com - action](https://www.youtube.com/watch?v=uBOdEEzjxzE)
 - [마크다운(Markdown) 6분 순삭 정리 + 깃허브 리드미(ReadMe) 파일 작성 팁 ⭐️](https://www.youtube.com/watch?v=kMEb_BzyUqk&list=WL&index=3)
+- [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 
 ## :cloud: AWS
 
