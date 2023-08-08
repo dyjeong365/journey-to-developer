@@ -36,7 +36,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :star2: 추천
 
 - [생활코딩](https://opentutorials.org/course/1)
-- [Developer Roadmaps](https://roadmap.sh/)
+- [Developer Roadmaps](https://roadmap.sh)
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)
 
 ## :robot: 인공지능
@@ -99,6 +99,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - 메모리 관리
   - [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
   - [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm)
+- [2023 Java 에코시스템 현황](https://newrelic.com/sites/default/files/2023-05/new-relic-2023-state-of-the-java-ecosystem-2023-04-20%20KR_0.pdf) 
 
 ## :leafy_green: Spring
 
@@ -174,6 +175,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [iTerm2 한글 자소분리 현상 해결](https://velog.io/@inyong_pang/MAC-macOS-iTerm2-%ED%95%9C%EA%B8%80-%EC%9E%90%EC%86%8C%EB%B6%84%EB%A6%AC-%ED%98%84%EC%83%81-%ED%95%B4%EA%B2%B0)
 - [(Mac)맥북 파일 경로/경로 복사 하는 법/파일 경로 복사 법](https://eunhee-programming.tistory.com/9)
 - [맥 특수문자 가운데점(·중간점) 등 입력하는 유용한 방법들](https://creavart.tistory.com/514)
+- [Fig](https://fig.io)
 
 ## :octocat: Git
 
