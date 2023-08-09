@@ -111,6 +111,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [4) 스프링부트로 웹 서비스 출시하기 - 4. AWS EC2 & RDS 구축하기](https://jojoldu.tistory.com/259?category=635883)
   - [5) 스프링부트로 웹 서비스 출시하기 - 5. EC2에 배포하기](https://jojoldu.tistory.com/263?category=635883)
     - [How do I allocate memory to work as swap space in an Amazon EC2 instance by using a swap file?](https://repost.aws/knowledge-center/ec2-memory-swap-file)
+  - [[Spring] 다양한 의존성 주입 방법과 생성자 주입을 사용해야 하는 이유 - (2/2)](https://mangkyu.tistory.com/125)
 
 ## :basecamp: Kotlin
 
