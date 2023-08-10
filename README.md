@@ -145,7 +145,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com)
 
-
 ## :shield: 보안
 
 - [생활코딩](https://opentutorials.org/course/1)
@@ -177,6 +176,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [iTerm2 한글 자소분리 현상 해결](https://velog.io/@inyong_pang/MAC-macOS-iTerm2-%ED%95%9C%EA%B8%80-%EC%9E%90%EC%86%8C%EB%B6%84%EB%A6%AC-%ED%98%84%EC%83%81-%ED%95%B4%EA%B2%B0)
 - [(Mac)맥북 파일 경로/경로 복사 하는 법/파일 경로 복사 법](https://eunhee-programming.tistory.com/9)
 - [맥 특수문자 가운데점(·중간점) 등 입력하는 유용한 방법들](https://creavart.tistory.com/514)
+- [Fig](https://fig.io)
 
 ## :octocat: Git
 
