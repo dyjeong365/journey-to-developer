@@ -39,6 +39,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [생활코딩](https://opentutorials.org/course/1)
 - [Developer Roadmaps](https://roadmap.sh)
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)
+- [MDN Web Docs](https://developer.mozilla.org/en-US)
 
 ## :robot: 인공지능
 
@@ -46,14 +47,11 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
   - [프롬프트 지니](https://www.promptgenie.ai)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
-  - [App Store](https://apps.apple.com/kr/app/chatgpt/id6448311069)
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
   - [AI Chat sidebar for Chrome](https://chrome.google.com/webstore/detail/bing-chat-sidebar-for-chr/ncjedehfkpnliaafimjhdjjeggmfmlgf)
   - [Google의 Bing 채팅(GPT-4)](https://chrome.google.com/webstore/detail/bing-chat-gpt-4-in-google/pcnhobmoglanpljipbomknafhdlcgcng)
-  - [App Store](https://apps.apple.com/hu/app/bing-search/id345323231)
 - [AskUp](https://pf.kakao.com/_BhxkWxj)
-- [Poe](https://poe.com)
-  - [App Store](https://apps.apple.com/tr/app/poe-fast-ai-chat/id1640745955) 
+- [Poe](https://poe.com) 
 - [ChatHub - All-in-one chatbot client](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
 - [DeepL 번역](https://www.deepl.com/translator)
@@ -104,13 +102,12 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :leafy_green: Spring
 
-- [기억보단 기록을](https://jojoldu.tistory.com)
-  - [1) 스프링부트로 웹 서비스 출시하기 - 1. SpringBoot & Gradle & Github 프로젝트 생성하기](https://jojoldu.tistory.com/250)
-  - [2) 스프링부트로 웹 서비스 출시하기 - 2. SpringBoot & JPA로 간단 API 만들기](https://jojoldu.tistory.com/251?category=635883)
-  - [3) 스프링부트로 웹 서비스 출시하기 - 3. SpringBoot & Handlebars로 화면 만들기](https://jojoldu.tistory.com/255?category=635883)
-  - [4) 스프링부트로 웹 서비스 출시하기 - 4. AWS EC2 & RDS 구축하기](https://jojoldu.tistory.com/259?category=635883)
-  - [5) 스프링부트로 웹 서비스 출시하기 - 5. EC2에 배포하기](https://jojoldu.tistory.com/263?category=635883)
-    - [How do I allocate memory to work as swap space in an Amazon EC2 instance by using a swap file?](https://repost.aws/knowledge-center/ec2-memory-swap-file)
+- [1) 스프링부트로 웹 서비스 출시하기 - 1. SpringBoot & Gradle & Github 프로젝트 생성하기](https://jojoldu.tistory.com/250)
+- [2) 스프링부트로 웹 서비스 출시하기 - 2. SpringBoot & JPA로 간단 API 만들기](https://jojoldu.tistory.com/251?category=635883)
+- [3) 스프링부트로 웹 서비스 출시하기 - 3. SpringBoot & Handlebars로 화면 만들기](https://jojoldu.tistory.com/255?category=635883)
+- [4) 스프링부트로 웹 서비스 출시하기 - 4. AWS EC2 & RDS 구축하기](https://jojoldu.tistory.com/259?category=635883)
+- [5) 스프링부트로 웹 서비스 출시하기 - 5. EC2에 배포하기](https://jojoldu.tistory.com/263?category=635883)
+  - [How do I allocate memory to work as swap space in an Amazon EC2 instance by using a swap file?](https://repost.aws/knowledge-center/ec2-memory-swap-file)
 - [[Spring] 다양한 의존성 주입 방법과 생성자 주입을 사용해야 하는 이유 - (2/2)](https://mangkyu.tistory.com/125)
 
 ## :basecamp: Kotlin
@@ -119,50 +116,47 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :dolphin: 데이터베이스
 
-- [생활코딩](https://opentutorials.org/course/1)
-  - [DATABASE1](https://opentutorials.org/course/3162)
+- [DATABASE1](https://opentutorials.org/course/3162)
+- MySQL
   - [MySQL](https://opentutorials.org/course/3161)
+  - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en)
+  - [MySQL Workbench](https://dev.mysql.com/downloads/workbench)
+- PostgreSQL
   - [PostgreSQL 입문수업](https://youtu.be/dKuLA5BGPTY?si=qGzEsa4kg2G9l_5v)
-  - [관계형 데이터 모델링](https://opentutorials.org/module/4134)
-  - [SQL Join](https://opentutorials.org/module/4118)
+  - [[PostgreSQL] Mac M1 homebrew로 PostgreSQL 설치 및 Datagrip 연동 (feat. postgresql 버전 별 차이 고민)](https://kth990303.tistory.com/414)
+  - [POSTGRES CHEAT SHEET](https://postgrescheatsheet.com/#/tables)
+  - [pgAdmin](https://www.pgadmin.org)
+- [관계형 데이터 모델링](https://opentutorials.org/module/4134)
+- [SQL Join](https://opentutorials.org/module/4118)
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua)
-- [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en)
-- [MySQL Workbench](https://dev.mysql.com/downloads/workbench)
-- [[PostgreSQL] Mac M1 homebrew로 PostgreSQL 설치 및 Datagrip 연동 (feat. postgresql 버전 별 차이 고민)](https://kth990303.tistory.com/414)
-- [POSTGRES CHEAT SHEET](https://postgrescheatsheet.com/#/tables)
-- [pgAdmin](https://www.pgadmin.org)
+- [MongoDB Documentation](https://www.mongodb.com/docs/manual/introduction)
 - 코딩테스트
   - [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
   - [SQL 50](https://leetcode.com/studyplan/top-sql-50)
 
 ## :spider_web: 네트워크
 
-- [생활코딩](https://opentutorials.org/course/1)
-  - [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
-  - [JMeter을 이용해서 웹서버 성능 테스트하기](https://www.youtube.com/watch?v=1AyxqIePusA)
-- [MDN Web Docs](https://developer.mozilla.org/en-US)
-  - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
+- [JMeter을 이용해서 웹서버 성능 테스트하기](https://www.youtube.com/watch?v=1AyxqIePusA)
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [Apache? Tomcat?? 둘이 무슨 차이지?](https://velog.io/@kdhyo/Apache-Tomcat-%EB%91%98%EC%9D%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%A7%80)
 - [Understanding the Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
 - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-- Chrome
-  - [Chrome Platform Status](https://chromestatus.com/roadmap)
-  - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+- [Chrome Platform Status](https://chromestatus.com/roadmap)
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com)
 
 ## :shield: 보안
 
-- [생활코딩](https://opentutorials.org/course/1)
-  - [암호학](https://opentutorials.org/module/5250)
-  - [WEB2 - OAuth 2.0](https://opentutorials.org/module/3668)
-  - [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
+- [암호학](https://opentutorials.org/module/5250)
+- [WEB2 - OAuth 2.0](https://opentutorials.org/module/3668)
+- [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [endoflife.date](https://endoflife.date)
 
 ## :computer: Unix-like
 
-- [생활코딩](https://opentutorials.org/course/1)
-  - [POSIX CLI1](https://opentutorials.org/module/3747)
+- [POSIX CLI1](https://opentutorials.org/module/3747)
 
 ## :penguin: Linux
 
@@ -185,47 +179,44 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :octocat: Git
 
-- [생활코딩](https://opentutorials.org/course/1)
-  - [github](https://opentutorials.org/module/4636)
-  - [GIT1](https://opentutorials.org/module/3733)
-  - [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
-  - [GIT2 - SourceTree 버전관리편](https://www.youtube.com/playlist?list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg)
-  - [git - reflog](https://www.youtube.com/watch?v=1OihCn5BoT4&list=PL5yULGcWnTI5wGqyrSCfRwlEgk9h4QWb6&index=9)
-  - [GIT3 - CLI 백업](https://opentutorials.org/module/3801)
-  - [GIT3 - CLI Branch & 충돌](https://opentutorials.org/module/3927)
-  - [git flow model](https://www.youtube.com/watch?v=EzcF6RX8RrQ)
-  - [GIT4 - CLI 협업](https://opentutorials.org/module/3967)
-  - [github.com - pull request](https://opentutorials.org/module/5083)
-  - [GIT4 - Reset & Revert](https://opentutorials.org/module/4032)
-  - [github.com - action](https://www.youtube.com/watch?v=uBOdEEzjxzE)
+- [github](https://opentutorials.org/module/4636)
+- [GIT1](https://opentutorials.org/module/3733)
+- [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
+- [GIT2 - SourceTree 버전관리편](https://www.youtube.com/playlist?list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg)
+- [git - reflog](https://www.youtube.com/watch?v=1OihCn5BoT4&list=PL5yULGcWnTI5wGqyrSCfRwlEgk9h4QWb6&index=9)
+- [GIT3 - CLI 백업](https://opentutorials.org/module/3801)
+- [GIT3 - CLI Branch & 충돌](https://opentutorials.org/module/3927)
+- [git flow model](https://www.youtube.com/watch?v=EzcF6RX8RrQ)
+- [GIT4 - CLI 협업](https://opentutorials.org/module/3967)
+- [github.com - pull request](https://opentutorials.org/module/5083)
+- [GIT4 - Reset & Revert](https://opentutorials.org/module/4032)
+- [github.com - action](https://www.youtube.com/watch?v=uBOdEEzjxzE)
 - [마크다운(Markdown) 6분 순삭 정리 + 깃허브 리드미(ReadMe) 파일 작성 팁 ⭐️](https://www.youtube.com/watch?v=kMEb_BzyUqk&list=WL&index=3)
 - [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 
 ## :cloud: AWS
 
-- [생활코딩](https://opentutorials.org/course/1)
-  - [AWS1](https://opentutorials.org/module/3814)
-  - [AWS - RDS](https://opentutorials.org/module/3860)
-  - [AWS - EC2 기본 사용법](https://www.youtube.com/watch?v=Pv2yDJ2NKQA)
-  - [AWS2 - S3](https://opentutorials.org/module/3815)
-  - [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
-  - [AWS - CloudFront](https://opentutorials.org/module/3838)
-  - [AWS2 - Route53](https://opentutorials.org/module/3898)
-  - [AWS - Elastic Load Balancer (ELB)](https://www.youtube.com/watch?v=s9FHdj6jd_U)
-  - [AWS Launch Template 사용법](https://www.youtube.com/watch?v=ue7Rk20p_EA)
-  - [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling](https://www.youtube.com/watch?v=_1Yqk-fLkec)
-  - [AWS Elastic Beanstalk](https://www.youtube.com/watch?v=g7W5LK1DM8o)
+- [AWS1](https://opentutorials.org/module/3814)
+- [AWS - RDS](https://opentutorials.org/module/3860)
+- [AWS - EC2 기본 사용법](https://www.youtube.com/watch?v=Pv2yDJ2NKQA)
+- [AWS2 - S3](https://opentutorials.org/module/3815)
+- [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
+- [AWS - CloudFront](https://opentutorials.org/module/3838)
+- [AWS2 - Route53](https://opentutorials.org/module/3898)
+- [AWS - Elastic Load Balancer (ELB)](https://www.youtube.com/watch?v=s9FHdj6jd_U)
+- [AWS Launch Template 사용법](https://www.youtube.com/watch?v=ue7Rk20p_EA)
+- [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling](https://www.youtube.com/watch?v=_1Yqk-fLkec)
+- [AWS Elastic Beanstalk](https://www.youtube.com/watch?v=g7W5LK1DM8o)
 - [가상 데이터 센터 만들기 - VPC 기본 및 연결 옵션 - 양승도 솔루션즈 아키텍트(AWS 코리아)](https://www.youtube.com/watch?v=R1UWYQYTPKo&t=2735s)
 - [[AWS] RDS Connection timed out 연결 오류 해결 방법](https://gksdudrb922.tistory.com/240)
 
 ## :whale: Docker
 
-- [생활코딩](https://opentutorials.org/course/1)
-  - [생활코딩 Docker 입구 수업](https://opentutorials.org/course/4781)
-  - [도커 : 이미지 만드는 법 - commit](https://www.youtube.com/watch?v=RMNOQXs-f68)
-  - [도커 : 이미지 만드는 법 - Dockerfile & build](https://www.youtube.com/watch?v=0kQC19w0gTI)
-  - [Docker hub로 이미지 공유하기 (push)](https://www.youtube.com/watch?v=_38dU6GExDo)
-  - [Docker compose 를 이용해서 복잡한 도커 컨테이너를 제어하기](https://www.youtube.com/watch?v=EK6iYRCIjYs)
+- [생활코딩 Docker 입구 수업](https://opentutorials.org/course/4781)
+- [도커 : 이미지 만드는 법 - commit](https://www.youtube.com/watch?v=RMNOQXs-f68)
+- [도커 : 이미지 만드는 법 - Dockerfile & build](https://www.youtube.com/watch?v=0kQC19w0gTI)
+- [Docker hub로 이미지 공유하기 (push)](https://www.youtube.com/watch?v=_38dU6GExDo)
+- [Docker compose 를 이용해서 복잡한 도커 컨테이너를 제어하기](https://www.youtube.com/watch?v=EK6iYRCIjYs)
 
 ## :mailbox_with_mail: 배포
 
