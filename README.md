@@ -40,6 +40,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Developer Roadmaps](https://roadmap.sh)
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)
 - [MDN Web Docs](https://developer.mozilla.org/en-US)
+- [우아한테크코스 테코톡](https://youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&si=-Gt9LKur4NZP2D7B)
 
 ## :robot: 인공지능
 
@@ -102,6 +103,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :leafy_green: Spring
 
+- [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#)
 - [1) 스프링부트로 웹 서비스 출시하기 - 1. SpringBoot & Gradle & Github 프로젝트 생성하기](https://jojoldu.tistory.com/250)
 - [2) 스프링부트로 웹 서비스 출시하기 - 2. SpringBoot & JPA로 간단 API 만들기](https://jojoldu.tistory.com/251?category=635883)
 - [3) 스프링부트로 웹 서비스 출시하기 - 3. SpringBoot & Handlebars로 화면 만들기](https://jojoldu.tistory.com/255?category=635883)
@@ -129,7 +131,10 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [관계형 데이터 모델링](https://opentutorials.org/module/4134)
 - [SQL Join](https://opentutorials.org/module/4118)
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua)
-- [MongoDB Documentation](https://www.mongodb.com/docs/manual/introduction)
+- NoSQL
+  - [How do NoSQL databases work? Simply Explained!](https://www.youtube.com/watch?v=0buKQHokLK8)
+  - [MongoDB Documentation](https://www.mongodb.com/docs/manual/introduction)
+  
 - 코딩테스트
   - [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
   - [SQL 50](https://leetcode.com/studyplan/top-sql-50)
