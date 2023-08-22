@@ -133,8 +133,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua)
 - NoSQL
   - [How do NoSQL databases work? Simply Explained!](https://www.youtube.com/watch?v=0buKQHokLK8)
-  - [MongoDB Documentation](https://www.mongodb.com/docs/manual/introduction)
-  
+  - [MongoDB Documentation](https://www.mongodb.com/docs/manual/introduction) 
 - 코딩테스트
   - [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
   - [SQL 50](https://leetcode.com/studyplan/top-sql-50)
