@@ -139,6 +139,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :spider_web: 네트워크
 
 - [WEB1 - HTML & Internet](https://opentutorials.org/course/3084)
+- [WEB2-JavaScript](https://youtube.com/playlist?list=PLuHgQVnccGMBB348PWRN0fREzYcYgFybf&si=X2OE1AU9N6nD9hMt)
 - [JMeter을 이용해서 웹서버 성능 테스트하기](https://www.youtube.com/watch?v=1AyxqIePusA)
 - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [Apache? Tomcat?? 둘이 무슨 차이지?](https://velog.io/@kdhyo/Apache-Tomcat-%EB%91%98%EC%9D%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%A7%80)
