@@ -49,7 +49,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [프롬프트 지니](https://www.promptgenie.ai)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://sdf.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=2003&fileTy=ATTACH&fileNo=1&board=7)
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
-  - [AI Chat sidebar for Chrome](https://chrome.google.com/webstore/detail/bing-chat-sidebar-for-chr/ncjedehfkpnliaafimjhdjjeggmfmlgf)
   - [Google의 Bing 채팅(GPT-4)](https://chrome.google.com/webstore/detail/bing-chat-gpt-4-in-google/pcnhobmoglanpljipbomknafhdlcgcng)
 - [Poe](https://poe.com)
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
