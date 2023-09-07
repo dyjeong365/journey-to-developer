@@ -156,6 +156,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
 - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 - [endoflife.date](https://endoflife.date)
+- [내 스팀비번이 맨날 털리는 이유 (서버개발자 탓임)](https://youtu.be/1BKATk8hGTU?si=IPlduXnAKHK-80zj)
 
 ## :computer: Unix-like
 
