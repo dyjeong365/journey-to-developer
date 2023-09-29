@@ -72,6 +72,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :camping: 부트캠프
 
 - [부트캠프리스트](https://boottent.sayun.studio/camps)
+- [우아한테크코스](https://www.woowacourse.io/intro)
 - [코드스테이츠 백엔드](https://www.codestates.com/course/backend-engineering)
   - [코드스테이츠 BE 44기. Section 1 마무리](https://cwhitestudy.tistory.com/34)
   - [[SEB BE 44] Section 1 후기](https://memodayoungee.tistory.com/82)
@@ -147,6 +148,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
 - [Chrome Platform Status](https://chromestatus.com/roadmap)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+- [Postman](https://www.postman.com)
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com)
 
 ## :shield: 보안
