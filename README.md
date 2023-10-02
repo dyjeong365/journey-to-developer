@@ -42,6 +42,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [MDN Web Docs](https://developer.mozilla.org/en-US)
 - [우아한테크코스 테코톡](https://youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&si=-Gt9LKur4NZP2D7B)
 - [Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=c0kolsIwmrS2JmD_)
+- [SUSC 특강 - 대학생 때 알았더라면 좋았을 것들 (2023 Ver)](https://present.do/documents/64b509ff10ab9a5ae55d989c)
 
 ## :robot: 인공지능
 
