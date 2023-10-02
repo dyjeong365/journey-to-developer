@@ -36,13 +36,13 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :star2: 추천
 
+- [SUSC 특강 - 대학생 때 알았더라면 좋았을 것들 (2023 Ver)](https://present.do/documents/64b509ff10ab9a5ae55d989c)
+- [Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=c0kolsIwmrS2JmD_)
 - [생활코딩](https://opentutorials.org/course/1)
 - [Developer Roadmaps](https://roadmap.sh)
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)
 - [MDN Web Docs](https://developer.mozilla.org/en-US)
 - [우아한테크코스 테코톡](https://youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&si=-Gt9LKur4NZP2D7B)
-- [Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=c0kolsIwmrS2JmD_)
-- [SUSC 특강 - 대학생 때 알았더라면 좋았을 것들 (2023 Ver)](https://present.do/documents/64b509ff10ab9a5ae55d989c)
 
 ## :robot: 인공지능
 
