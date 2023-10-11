@@ -21,7 +21,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [데이터베이스](#dolphin-데이터베이스)
 - [네트워크](#spider_web-네트워크)
 - [보안](#shield-보안)
-- [Unix-like](#computer-unix-like)
 - [Linux](#penguin-linux)
 - [macOS](#apple-macos)
 - [Git](#octocat-git)
@@ -96,11 +95,12 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :coffee: Java
 
 - [점프 투 자바](https://wikidocs.net/book/31)
+- [2023 Java 에코시스템 현황](https://newrelic.com/sites/default/files/2023-05/new-relic-2023-state-of-the-java-ecosystem-2023-04-20%20KR_0.pdf)
 - [Java® Platform, Standard Edition & Java Development Kit Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 - 메모리 관리
   - [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
   - [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm)
-- [2023 Java 에코시스템 현황](https://newrelic.com/sites/default/files/2023-05/new-relic-2023-state-of-the-java-ecosystem-2023-04-20%20KR_0.pdf) 
+ 
 
 ## :leafy_green: Spring
 
@@ -162,27 +162,25 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [endoflife.date](https://endoflife.date)
 - [내 스팀비번이 맨날 털리는 이유 (서버개발자 탓임)](https://youtu.be/1BKATk8hGTU?si=IPlduXnAKHK-80zj)
 
-## :computer: Unix-like
-
-- [POSIX CLI1](https://opentutorials.org/module/3747)
-
 ## :penguin: Linux
 
+- [POSIX CLI1](https://opentutorials.org/module/3747)
 - [커맨드라인 사용법: 따라하며 배우는 리눅스 명령어와 관습들](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
 - [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09](https://youtu.be/JbH-xzD7IkE)
 
 ## :apple: macOS
 
-- [Mac 키보드 단축키](https://support.apple.com/ko-kr/HT201236)
-- [M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-- [맥북의 파일 이름 일괄 변경 방법](https://dailyfun.kr/488)
 - [[맥북] 시스템 초기 설정 2 - 파인더 설정 5가지](https://iyob.tistory.com/60)
+- [Mac 키보드 단축키](https://support.apple.com/ko-kr/HT201236)
+- [(Mac)맥북 파일 경로/경로 복사 하는 법/파일 경로 복사 법](https://eunhee-programming.tistory.com/9)
+- [맥북의 파일 이름 일괄 변경 방법](https://dailyfun.kr/488)
+- [맥 특수문자 가운데점(·중간점) 등 입력하는 유용한 방법들](https://creavart.tistory.com/514)
+- [M1 Monterey Java 11.0.13 설치 후 환경변수 설정하기](https://blex.me/@DevMinGeonPark/m1-monterey-java-11013-%EC%84%A4%EC%B9%98-%ED%9B%84-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [Homebrew를 사용해서 Mac 패키지를 관리하기](https://tutorialpost.apptilus.com/code/posts/tools/homebrew-for-mac)
+- [mac 에서 git 출력 언어변경 (한글 > 영어)](https://velog.io/@rxdryd/git-%EC%B6%9C%EB%A0%A5-%EC%96%B8%EC%96%B4%EB%B3%80%EA%B2%BD)
 - [iTerm2](https://iterm2.com)
   - [[Mac] iTerm2 설치 및 테마](https://velog.io/@mook9288/macRecord-005)
   - [iTerm2 한글 자소분리 현상 해결](https://velog.io/@inyong_pang/MAC-macOS-iTerm2-%ED%95%9C%EA%B8%80-%EC%9E%90%EC%86%8C%EB%B6%84%EB%A6%AC-%ED%98%84%EC%83%81-%ED%95%B4%EA%B2%B0)
-- [(Mac)맥북 파일 경로/경로 복사 하는 법/파일 경로 복사 법](https://eunhee-programming.tistory.com/9)
-- [맥 특수문자 가운데점(·중간점) 등 입력하는 유용한 방법들](https://creavart.tistory.com/514)
 - [Fig](https://fig.io)
 
 ## :octocat: Git
