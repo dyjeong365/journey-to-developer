@@ -160,6 +160,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 * [VirusTotal](https://www.virustotal.com/gui/home/upload)
 * [endoflife.date](https://endoflife.date)
 * [내 스팀비번이 맨날 털리는 이유 (서버개발자 탓임)](https://youtu.be/1BKATk8hGTU?si=IPlduXnAKHK-80zj)
+* [SQL injection 공격](https://youtu.be/FoZ2cucLiDs?si=jBEY8QNPoW37ndJB)
 
 ## :penguin: Linux
 
