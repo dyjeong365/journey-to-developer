@@ -37,6 +37,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 * [SUSC 특강 - 대학생 때 알았더라면 좋았을 것들 (2023 Ver)](https://present.do/documents/64b509ff10ab9a5ae55d989c)
 * [Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=c0kolsIwmrS2JmD_)
+* [CS50x 2023 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4)
+  * [[vscode] code 명령으로 vscode 열기](https://velog.io/@hwang-eunji/vscode-code-%EB%AA%85%EB%A0%B9%EC%9C%BC%EB%A1%9C-vscode-%EC%97%B4%EA%B8%B0)
 * [생활코딩](https://opentutorials.org/course/1)
 * [Developer Roadmaps](https://roadmap.sh)
 * [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)
