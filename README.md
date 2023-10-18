@@ -241,6 +241,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :scroll: 이력서
 
+* [어느 날 고민 많은 주니어 개발자가 찾아왔다 - 성장과 취업, 이직 이야기 | 인프콘 2022](https://youtu.be/QHlyr8soUDM?si=uQUKnvim2HAAmsc8) 
 * [Resume: Yongwoo Yu](https://resume.yowu.dev)
 * [김찬연 기술 이력서](https://resume.chayeoi.site)
 * [박기제 이력서](https://realdeveloper.pro/kijepark)
