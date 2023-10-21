@@ -99,10 +99,10 @@ https://github.com/ikatyang/emoji-cheat-sheet
 * [점프 투 자바](https://wikidocs.net/book/31)
 * [2023 Java 에코시스템 현황](https://newrelic.com/sites/default/files/2023-05/new-relic-2023-state-of-the-java-ecosystem-2023-04-20%20KR_0.pdf)
 * [Java® Platform, Standard Edition & Java Development Kit Version 11 API Specification](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+* [[IntelliJ] 코드 스타일을 설정해보자 (feat.우테코)](https://velog.io/@pgmjun/IntelliJ-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9D%84-%EC%84%A4%EC%A0%95%ED%95%B4%EB%B3%B4%EC%9E%90-feat.%EC%9A%B0%ED%85%8C%EC%BD%94)
 * 메모리 관리
   * [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
   * [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm)
- 
 
 ## :leafy_green: Spring
 
