@@ -175,6 +175,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 * [[맥북] 시스템 초기 설정 2 - 파인더 설정 5가지](https://iyob.tistory.com/60)
 * [Mac 키보드 단축키](https://support.apple.com/ko-kr/HT201236)
+* [[MAC] 맥 파일 복사, 붙여넣기, 잘라내기 단축키 - 뚜벅뚜벅 컴공맨](https://where-i-am.tistory.com/entry/MAC-Mac-%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%BC-%EB%B3%B5%EC%82%AC-%EB%B6%99%EC%97%AC%EB%84%A3%EA%B8%B0-%EC%9E%98%EB%9D%BC%EB%82%B4%EA%B8%B0-%EB%8B%A8%EC%B6%95%ED%82%A4)
 * [(Mac)맥북 파일 경로/경로 복사 하는 법/파일 경로 복사 법](https://eunhee-programming.tistory.com/9)
 * [맥북의 파일 이름 일괄 변경 방법](https://dailyfun.kr/488)
 * [맥 특수문자 가운데점(·중간점) 등 입력하는 유용한 방법들](https://creavart.tistory.com/514)
