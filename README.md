@@ -54,7 +54,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 * [Claude](https://claude.ai/chats) 
 * [Poe](https://poe.com)
 * [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
-  * [Google의 Bing 채팅(GPT-4)](https://chrome.google.com/webstore/detail/bing-chat-gpt-4-in-google/pcnhobmoglanpljipbomknafhdlcgcng)
 * [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
 * [DeepL 번역](https://www.deepl.com/translator)
   * [Chrome 웹 스토어](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
