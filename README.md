@@ -35,11 +35,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :star2: 추천
 
-- [ChatGPT](https://chat.openai.com/chat)
-  - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
-  - [프롬프트 지니](https://www.promptgenie.ai)
-  - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://www.koraia.org/chtml/board.php?template=base&com_board_basic=file_download&com_board_id=12&com_board_idx=587&com_board_file_seq=0)
-  - [ChatGPT 활용 방법](https://docs.google.com/presentation/d/1lU-1mxLNbtIXRkAMEpBR9ZlLFfWY00ZOccaEarzKgMo/edit#slide=id.g287eca2914e_2_0)
 - [SUSC 특강 - 대학생 때 알았더라면 좋았을 것들 (2023 Ver)](https://present.do/documents/64b509ff10ab9a5ae55d989c)
 - [Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=c0kolsIwmrS2JmD_)
 - [CS50x 2023 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4)
@@ -52,6 +47,11 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :robot: 인공지능
 
+- [ChatGPT](https://chat.openai.com/chat)
+  - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
+  - [프롬프트 지니](https://www.promptgenie.ai)
+  - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://www.koraia.org/chtml/board.php?template=base&com_board_basic=file_download&com_board_id=12&com_board_idx=587&com_board_file_seq=0)
+  - [ChatGPT 활용 방법](https://docs.google.com/presentation/d/1lU-1mxLNbtIXRkAMEpBR9ZlLFfWY00ZOccaEarzKgMo/edit#slide=id.g287eca2914e_2_0)
 - [Claude](https://claude.ai/chats)
 - [SGE, 생성형 AI 검색](https://labs.google.com/search/experiment/1?hl=ko&is=ag)
 - [Bing Chat](https://www.bing.com/search?toWww=1&redig=0C90671CDF15406EA5832BA7268050FF&q=Bing+AI&showconv=1)
