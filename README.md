@@ -63,7 +63,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 - [클리앙](https://www.clien.net/service/board/news)
 - [기글하드웨어](https://gigglehd.com/gg)
-- [IT/과학 홈](https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=105)
 - [블로터](https://www.bloter.net/news/articleList.html?page=1&total=28027&sc_section_code=S1N4&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm)
 - [GeekNews](https://news.hada.io)
 - [보안뉴스](https://www.boannews.com/media/t_list.asp)
@@ -152,18 +151,14 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Apache? Tomcat?? 둘이 무슨 차이지?](https://velog.io/@kdhyo/Apache-Tomcat-%EB%91%98%EC%9D%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%A7%80)
 - [Understanding the Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
 - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-- [Chrome Platform Status](https://chromestatus.com/roadmap)
+- [서버사이드 렌더링 (개발자라면 상식으로 알고 있어야 하는 개념 정리 ⭐️)](https://youtu.be/iZ9csAfU5Os?si=teLR3tya7hSuKhdp)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
-- [Postman](https://www.postman.com)
-- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com)
 
 ## :shield: 보안
 
 - [암호학](https://opentutorials.org/module/5250)
 - [WEB2 - OAuth 2.0](https://opentutorials.org/module/3668)
 - [The OAuth 2.0 Authorization Framework: Bearer Token Usage.md](https://gist.github.com/egoing/cac3d6c8481062a7e7de327d3709505f)
-- [VirusTotal](https://www.virustotal.com/gui/home/upload)
-- [endoflife.date](https://endoflife.date)
 - [내 스팀비번이 맨날 털리는 이유 (서버개발자 탓임)](https://youtu.be/1BKATk8hGTU?si=IPlduXnAKHK-80zj)
 - [SQL injection 공격](https://youtu.be/FoZ2cucLiDs?si=jBEY8QNPoW37ndJB)
 
@@ -239,9 +234,9 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :speaking_head: 기획
 
 - [What is a kanban board?](https://www.atlassian.com/agile/kanban/boards)
-- [Trello](https://trello.com)
 - [직관성을 높이는 세 가지 접근법](https://yozm.wishket.com/magazine/detail/1488)
 - [신입 개발자가 알아두면 좋은 IT 애자일 프로젝트 용어 (칸반보드, 간트차트, 스크럼)](https://www.codestates.com/blog/content/%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%A9%EC%96%B4)
+- [CQRS pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 
 ## :scroll: 이력서
 
