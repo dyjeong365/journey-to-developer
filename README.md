@@ -154,7 +154,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [서버사이드 렌더링 (개발자라면 상식으로 알고 있어야 하는 개념 정리 ⭐️)](https://youtu.be/iZ9csAfU5Os?si=teLR3tya7hSuKhdp)
 - [API란? 개념 정리와 포트폴리오에 유용한 대박 사이트 공유 🙌](https://youtu.be/ogT267HvNuQ?si=MW5Bg54CUfpS9dKr)
   - [public-apis](https://github.com/public-apis/public-apis)
-- [정부 데이터 API를 이용해서 가져오기](https://youtu.be/eBV6tAfekyw?si=x6KqL49JGvPJRtjf) 
+- [정부 데이터 API를 이용해서 가져오기](https://youtu.be/eBV6tAfekyw?si=x6KqL49JGvPJRtjf)
+- [기계들 간의 대화 - GraphQL](https://youtu.be/c6qHnYa9pUk?si=IuZ1InWXUnPkKhU5)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 
 ## :shield: 보안
