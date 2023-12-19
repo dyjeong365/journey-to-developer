@@ -54,7 +54,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [ChatGPT 활용 방법](https://docs.google.com/presentation/d/1lU-1mxLNbtIXRkAMEpBR9ZlLFfWY00ZOccaEarzKgMo/edit#slide=id.g287eca2914e_2_0)
 - [Claude](https://claude.ai/chats)
 - [Microsoft Copilot](https://copilot.microsoft.com)
-- [SGE, 생성형 AI 검색](https://labs.google.com/search/experiment/1?hl=ko&is=ag)
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
 - [DeepL 번역](https://www.deepl.com/translator)
   - [Chrome 웹 스토어](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
@@ -65,6 +64,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [기글하드웨어](https://gigglehd.com/gg)
 - [블로터](https://www.bloter.net/news/articleList.html?page=1&total=28027&sc_section_code=S1N4&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm)
 - [GeekNews](https://news.hada.io)
+  - [GeekNews Weekly](https://news.hada.io/weekly) 
 - [보안뉴스](https://www.boannews.com/media/t_list.asp)
 - [The Verge](https://www.theverge.com)
 - [커리어리](https://careerly.co.kr)
@@ -89,9 +89,14 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :triangular_ruler: 알고리즘
 
 - [코딩 테스트 및 알고리즘 문제해결 공부 방법](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
-- [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=1&statuses=unsolved&languages=java)
-- [새싹](https://solved.ac/problems/sprout)
-- [[Java / IntelliJ] 인텔리제이 입출력 txt로 받기](https://ddingmin00.tistory.com/60)
+- [Baekjoon Online Judge](https://www.acmicpc.net)
+  - [새싹](https://solved.ac/problems/sprout)
+  - [단계별로 풀어보기](https://www.acmicpc.net/step)
+  - [CLASS](https://solved.ac/class)
+  - [[Java / IntelliJ] 인텔리제이 입출력 txt로 받기](https://ddingmin00.tistory.com/60)
+- [프로그래머스](https://programmers.co.kr)
+  - [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=1&statuses=unsolved&languages=java)
+  - [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 - [백준허브](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko)
 - [LeetHub v2](https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm)
 
