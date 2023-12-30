@@ -71,7 +71,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [커리어리](https://careerly.co.kr)
 - [기억보단 기록을](https://jojoldu.tistory.com)
 - [MangKyu's Diary](https://mangkyu.tistory.com)
-- [Stranger's LAB](https://st-lab.tistory.com)
 
 ## :camping: 부트캠프
 
