@@ -114,12 +114,13 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :leafy_green: Spring
 
 - [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#)
-- [1) 스프링부트로 웹 서비스 출시하기 - 1. SpringBoot & Gradle & Github 프로젝트 생성하기](https://jojoldu.tistory.com/250)
-- [2) 스프링부트로 웹 서비스 출시하기 - 2. SpringBoot & JPA로 간단 API 만들기](https://jojoldu.tistory.com/251?category=635883)
-- [3) 스프링부트로 웹 서비스 출시하기 - 3. SpringBoot & Handlebars로 화면 만들기](https://jojoldu.tistory.com/255?category=635883)
-- [4) 스프링부트로 웹 서비스 출시하기 - 4. AWS EC2 & RDS 구축하기](https://jojoldu.tistory.com/259?category=635883)
-- [5) 스프링부트로 웹 서비스 출시하기 - 5. EC2에 배포하기](https://jojoldu.tistory.com/263?category=635883)
-  - [How do I allocate memory to work as swap space in an Amazon EC2 instance by using a swap file?](https://repost.aws/knowledge-center/ec2-memory-swap-file)
+- 스프링부트로 웹 서비스 출시하기 
+  - [1) 스프링부트로 웹 서비스 출시하기 - 1. SpringBoot & Gradle & Github 프로젝트 생성하기](https://jojoldu.tistory.com/250)
+  - [2) 스프링부트로 웹 서비스 출시하기 - 2. SpringBoot & JPA로 간단 API 만들기](https://jojoldu.tistory.com/251?category=635883)
+  - [3) 스프링부트로 웹 서비스 출시하기 - 3. SpringBoot & Handlebars로 화면 만들기](https://jojoldu.tistory.com/255?category=635883)
+  - [4) 스프링부트로 웹 서비스 출시하기 - 4. AWS EC2 & RDS 구축하기](https://jojoldu.tistory.com/259?category=635883)
+  - [5) 스프링부트로 웹 서비스 출시하기 - 5. EC2에 배포하기](https://jojoldu.tistory.com/263?category=635883)
+    - [How do I allocate memory to work as swap space in an Amazon EC2 instance by using a swap file?](https://repost.aws/knowledge-center/ec2-memory-swap-file)
 - [[Spring] 다양한 의존성 주입 방법과 생성자 주입을 사용해야 하는 이유 - (2/2)](https://mangkyu.tistory.com/125)
 
 ## :basecamp: Kotlin
