@@ -111,6 +111,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
   - [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm)
 - [김재웅 - Java 정규표현식 | 백엔드 데브코스 4기 | 20230705](https://youtu.be/W7F4cnTAoXc?si=rop2W29Wpl0Ys38N)
+- [원시 타입을 포장해야 하는 이유](https://tecoble.techcourse.co.kr/post/2020-05-29-wrap-primitive-type)
 
 ## :leafy_green: Spring
 
