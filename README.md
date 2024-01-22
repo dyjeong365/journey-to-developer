@@ -126,6 +126,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
     - [How do I allocate memory to work as swap space in an Amazon EC2 instance by using a swap file?](https://repost.aws/knowledge-center/ec2-memory-swap-file)
 - [[Spring] 다양한 의존성 주입 방법과 생성자 주입을 사용해야 하는 이유 - (2/2)](https://mangkyu.tistory.com/125)
 - [[10분 테코톡] 아마란스의 로깅](https://youtu.be/X_iE36En9F4?si=VFeOdVXavtiZISc6)
+- [[Spring] @Valid와 @Validated를 이용한 유효성 검증의 동작 원리 및 사용법 예시 - (1/2)](https://mangkyu.tistory.com/174)
 
 ## :basecamp: Kotlin
 
