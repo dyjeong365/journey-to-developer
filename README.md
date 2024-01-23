@@ -234,6 +234,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [가상 데이터 센터 만들기 - VPC 기본 및 연결 옵션 - 양승도 솔루션즈 아키텍트(AWS 코리아)](https://www.youtube.com/watch?v=R1UWYQYTPKo&t=2735s)
 - [[AWS] RDS Connection timed out 연결 오류 해결 방법](https://gksdudrb922.tistory.com/240)
 - [[에러로그] EC2 배포시 Timezone 설정](https://wookcode.tistory.com/67)
+- [0.1초 동안 컴퓨터를 빌려보자 - AWS Lambda](https://youtu.be/t8sjTFM_tfE?si=CBTUoGcHzpyYtBep)
+  - [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com)
 
 ## :whale: Docker
 
