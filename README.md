@@ -101,7 +101,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=1&statuses=unsolved&languages=java)
   - [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 - [백준허브](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko)
-- [LeetHub v2](https://chrome.google.com/webstore/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm)
+- [LeetHub v3](https://chromewebstore.google.com/detail/leethub-v3/kdkgpjpenaeoodajljkflmlnkoihkmda)
 - [[자료구조 알고리즘] Graph 검색 DFS, BFS 구현 in Java](https://youtu.be/_hxFgg7TLZQ?si=wsKe1UwXY50lFpMQ)
 
 ## :coffee: Java
