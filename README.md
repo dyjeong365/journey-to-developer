@@ -52,7 +52,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [프롬프트 지니](https://www.promptgenie.ai)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://www.koraia.org/chtml/board.php?template=base&com_board_basic=file_download&com_board_id=12&com_board_idx=587&com_board_file_seq=0)
   - [ChatGPT 활용 방법](https://docs.google.com/presentation/d/1lU-1mxLNbtIXRkAMEpBR9ZlLFfWY00ZOccaEarzKgMo/edit#slide=id.g287eca2914e_2_0)
-- [Bard](https://bard.google.com/chat) 
+- [Gemini](https://gemini.google.com/app) 
 - [Claude](https://claude.ai/chats)
 - [AI Playground](https://sdk.vercel.ai)
 - [Perplexity Labs](https://labs.perplexity.ai)
