@@ -81,13 +81,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [부트캠프리스트](https://boottent.sayun.studio/camps)
 - [우아한테크코스](https://www.woowacourse.io/intro)
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet)
-- [코드스테이츠 백엔드](https://www.codestates.com/course/backend-engineering)
-  - [코드스테이츠 BE 44기. Section 1 마무리](https://cwhitestudy.tistory.com/34)
-  - [[SEB BE 44] Section 1 후기](https://memodayoungee.tistory.com/82)
-  - [[SEB BE 44] Section 2 회고록](https://memodayoungee.tistory.com/112)
-  - [[SEB BE 44] Section 3 회고록](https://memodayoungee.tistory.com/131)
-  - [[SEB BE 44] Section 4 회고록](https://memodayoungee.tistory.com/149)
-  - [[SEB BE 44] 코드 스테이츠 Pre Project 후기](https://memodayoungee.tistory.com/152)
 - [국민취업지원제도](https://www.kua.go.kr/uaptm010/selectMain.do) 
   
 ## :triangular_ruler: 알고리즘
