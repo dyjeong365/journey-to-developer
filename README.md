@@ -42,7 +42,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [생활코딩](https://opentutorials.org/course/1)
 - [Developer Roadmaps](https://roadmap.sh)
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)
-- [MDN Web Docs](https://developer.mozilla.org/en-US)
 - [우아한테크코스 테코톡](https://youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&si=-Gt9LKur4NZP2D7B)
 
 ## :robot: 인공지능
@@ -80,8 +79,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 - [부트캠프리스트](https://boottent.sayun.studio/camps)
 - [우아한테크코스](https://www.woowacourse.io/intro)
+- [부스트캠프(네이버 커넥트재단)](https://boostcamp.connect.or.kr/)
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet)
-- [청년도전 지원사업](https://www.moel.go.kr/policy/policyinfo/young/list18.do)
 - [국민취업지원제도](https://www.kua.go.kr/uaptm010/selectMain.do) 
   
 ## :triangular_ruler: 알고리즘
@@ -160,6 +159,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [WEB2-JavaScript](https://youtube.com/playlist?list=PLuHgQVnccGMBB348PWRN0fREzYcYgFybf&si=X2OE1AU9N6nD9hMt)
 - [JMeter을 이용해서 웹서버 성능 테스트하기](https://www.youtube.com/watch?v=1AyxqIePusA)
 - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [MDN Web Docs](https://developer.mozilla.org/en-US)
 - [Apache? Tomcat?? 둘이 무슨 차이지?](https://velog.io/@kdhyo/Apache-Tomcat-%EB%91%98%EC%9D%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%A7%80)
 - [Understanding the Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
 - [Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
