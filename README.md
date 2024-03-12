@@ -197,7 +197,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [iTerm2](https://iterm2.com)
   - [[Mac] iTerm2 설치 및 테마](https://velog.io/@mook9288/macRecord-005)
   - [iTerm2 한글 자소분리 현상 해결](https://velog.io/@inyong_pang/MAC-macOS-iTerm2-%ED%95%9C%EA%B8%80-%EC%9E%90%EC%86%8C%EB%B6%84%EB%A6%AC-%ED%98%84%EC%83%81-%ED%95%B4%EA%B2%B0)
-- [Fig](https://fig.io)
+- [Installing CodeWhisperer for command line - CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/command-line-getting-started-installing.html)
 
 ## :octocat: Git
 
