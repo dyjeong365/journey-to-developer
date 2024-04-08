@@ -222,6 +222,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [CopyTabTitleUrl](https://chromewebstore.google.com/detail/lmgbdjfoaihhgdphombpgjpaohjfeapp)
 - [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 - [[GitHub] git commit 템플릿 사용하여 commit message convention 준수하기](https://chanhuiseok.github.io/posts/git-4)
+- [[Github] 깃허브 README.md에 이미지 올리기 (feat.Issue) — J Story](https://aiday.tistory.com/83)
 
 ## :cloud: AWS
 
