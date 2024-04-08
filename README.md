@@ -112,6 +112,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure))](https://deepu.tech/memory-management-in-jvm)
 - [김재웅 - Java 정규표현식 | 백엔드 데브코스 4기 | 20230705](https://youtu.be/W7F4cnTAoXc?si=rop2W29Wpl0Ys38N)
 - [원시 타입을 포장해야 하는 이유](https://tecoble.techcourse.co.kr/post/2020-05-29-wrap-primitive-type)
+- [Servelet으로 외부 IP 주소 얻기](https://velog.io/@mardi2020/Servelet%EC%9C%BC%EB%A1%9C-%EC%99%B8%EB%B6%80-IP-%EC%A3%BC%EC%86%8C-%EC%96%BB%EA%B8%B0)
 
 ## :leafy_green: Spring
 
@@ -240,6 +241,8 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [[에러로그] EC2 배포시 Timezone 설정](https://wookcode.tistory.com/67)
 - [0.1초 동안 컴퓨터를 빌려보자 - AWS Lambda](https://youtu.be/t8sjTFM_tfE?si=CBTUoGcHzpyYtBep)
   - [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com)
+- [[AWS] Elastic Beanstalk 502 Bad Gateway 해결하기](https://dream-and-develop.tistory.com/509)
+  - [Configuring the reverse proxy - AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/java-se-nginx.html)
 
 ## :whale: Docker
 
