@@ -95,9 +95,9 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 - [백준허브](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko)
 - [LeetCode](https://leetcode.com/problemset)
-  - [Programming Skills](https://leetcode.com/studyplan/programming-skills/)  
-  - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
+  - [Programming Skills](https://leetcode.com/studyplan/programming-skills/)
   - [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+  - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
   - [LeetHub v3](https://chromewebstore.google.com/detail/leethub-v3/kdkgpjpenaeoodajljkflmlnkoihkmda)
 - [[자료구조 알고리즘] Graph 검색 DFS, BFS 구현 in Java](https://youtu.be/_hxFgg7TLZQ?si=wsKe1UwXY50lFpMQ)
 
@@ -118,6 +118,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 - [[10분 테코톡] 오잉의 Spring vs Spring Boot](https://youtu.be/YdE4krx0dsM?si=Gr8TjzAw91zmLhgM)
 - [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8#)
+- [Spring Initializr](https://start.spring.io/)
 - 스프링부트로 웹 서비스 출시하기 
   - [1) 스프링부트로 웹 서비스 출시하기 - 1. SpringBoot & Gradle & Github 프로젝트 생성하기](https://jojoldu.tistory.com/250)
   - [2) 스프링부트로 웹 서비스 출시하기 - 2. SpringBoot & JPA로 간단 API 만들기](https://jojoldu.tistory.com/251?category=635883)
