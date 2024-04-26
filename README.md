@@ -53,7 +53,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [ChatGPT 활용 방법](https://docs.google.com/presentation/d/1lU-1mxLNbtIXRkAMEpBR9ZlLFfWY00ZOccaEarzKgMo/edit#slide=id.g287eca2914e_2_0)
 - [Claude](https://claude.ai/chats)
 - [Gemini](https://gemini.google.com/app)
-- [LMSys Chatbot Arena Leaderboard - a Hugging Face Space by lmsys](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+- [Chat with Open Large Language Models](https://chat.lmsys.org/?leaderboard)
 - [Microsoft Copilot](https://copilot.microsoft.com)
 - [SGE, 생성형 AI 검색](https://labs.google.com/search/experiment/1?hl=ko&is=ag)
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
