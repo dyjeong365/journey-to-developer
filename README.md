@@ -98,7 +98,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [Programming Skills](https://leetcode.com/studyplan/programming-skills/)
   - [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
   - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
-  - [LeetHub v3](https://chromewebstore.google.com/detail/leethub-v3/kdkgpjpenaeoodajljkflmlnkoihkmda)
+  - [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm)
 - [SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemList.do)
 - [[자료구조 알고리즘] Graph 검색 DFS, BFS 구현 in Java](https://youtu.be/_hxFgg7TLZQ?si=wsKe1UwXY50lFpMQ)
 
