@@ -51,10 +51,11 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [프롬프트 지니](https://www.promptgenie.ai)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://www.koraia.org/chtml/board.php?template=base&com_board_basic=file_download&com_board_id=12&com_board_idx=587&com_board_file_seq=0)
   - [ChatGPT 활용 방법](https://docs.google.com/presentation/d/1lU-1mxLNbtIXRkAMEpBR9ZlLFfWY00ZOccaEarzKgMo/edit#slide=id.g287eca2914e_2_0)
-- [에이닷](https://adot.ai/multillm)
 - [Claude](https://claude.ai/chats)
 - [Perplexity](https://www.perplexity.ai/)
 - [Microsoft Copilot](https://copilot.microsoft.com)
+- [에이닷](https://adot.ai/multillm)
+- [Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots](https://lmarena.ai/?leaderboard)
 - [SGE, 생성형 AI 검색](https://labs.google.com/search/experiment/1?hl=ko&is=ag)
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
 - [DeepL 번역](https://www.deepl.com/translator)
@@ -81,6 +82,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [부스트캠프(네이버 커넥트재단)](https://boostcamp.connect.or.kr/)
 - [SW마에스트로](https://www.swmaestro.org/sw/main/main.do)
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet)
+  - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 - [국취이야기](https://www.work24.go.kr/ua/z/z/1300/selectEmssRqutIntro.do) 
   
 ## :triangular_ruler: 알고리즘
