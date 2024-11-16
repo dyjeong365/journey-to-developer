@@ -254,6 +254,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [도커 : 이미지 만드는 법 - Dockerfile & build](https://www.youtube.com/watch?v=0kQC19w0gTI)
 - [Docker hub로 이미지 공유하기 (push)](https://www.youtube.com/watch?v=_38dU6GExDo)
 - [Docker compose 를 이용해서 복잡한 도커 컨테이너를 제어하기](https://www.youtube.com/watch?v=EK6iYRCIjYs)
+- [[Docker] 맥(MAC) 시스템 데이터 저장 공간에서 도커(Docker) 용량 줄이기](https://manchann.tistory.com/35)
 
 ## :mailbox_with_mail: 배포
 
