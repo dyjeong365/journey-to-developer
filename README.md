@@ -77,7 +77,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :camping: 부트캠프
 
-- [부트캠프리스트](https://boottent.sayun.studio/camps)
 - [우아한테크코스](https://www.woowacourse.io/intro)
 - [부스트캠프(네이버 커넥트재단)](https://boostcamp.connect.or.kr/)
 - [SW마에스트로](https://www.swmaestro.org/sw/main/main.do)
