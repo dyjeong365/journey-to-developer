@@ -47,7 +47,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :robot: 인공지능
 
 - [ChatGPT](https://chat.openai.com/chat)
-  - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
   - [프롬프트 지니](https://www.promptgenie.ai)
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://www.koraia.org/chtml/board.php?template=base&com_board_basic=file_download&com_board_id=12&com_board_idx=587&com_board_file_seq=0)
   - [ChatGPT 활용 방법](https://docs.google.com/presentation/d/1lU-1mxLNbtIXRkAMEpBR9ZlLFfWY00ZOccaEarzKgMo/edit#slide=id.g287eca2914e_2_0)
@@ -63,7 +62,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :newspaper_roll: RSS
 
-- [다모앙 | DAMOANG](https://damoang.net/new)
+- [새로운 소식 1 페이지 | 다모앙 | DAMOANG](https://damoang.net/new)
 - [클리앙 : 정보와자료](https://www.clien.net/service/group/allinfo)
 - [기글하드웨어](https://gigglehd.com/gg)
 - [블로터](https://www.bloter.net/news/articleList.html?page=1&total=28027&sc_section_code=S1N4&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm)
@@ -77,6 +76,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :camping: 부트캠프
 
+- [부트캠프리스트](https://boottent.sayun.studio/camps)
 - [우아한테크코스](https://www.woowacourse.io/intro)
 - [부스트캠프(네이버 커넥트재단)](https://boostcamp.connect.or.kr/)
 - [SW마에스트로](https://www.swmaestro.org/sw/main/main.do)
