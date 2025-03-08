@@ -1,19 +1,22 @@
-<!-- 목차 이모지
-https://github.com/ikatyang/emoji-cheat-sheet
--->
-
 # journey-to-developer
 
 ### :tada: 개발자로서 첫출발을 환영합니다! 
 
-수집한 정보 중 만족도 높은 정보들을 공유합니다.
+개발자가 아니더라도 IT 지식을 습득할 수 있는 다양하고 유용한 정보들을 정리했습니다.
+
+<!-- 목차 이모지
+https://github.com/ikatyang/emoji-cheat-sheet
+-->
 
 ## 목차
+
+해당 목차를 누르시면 바로 이동합니다.
 
 - :star2: [추천](#star2-추천)
 - :robot: [인공지능](#robot-인공지능)
 - :newspaper_roll: [RSS](#newspaper_roll-rss)
 - :camping: [부트캠프](#camping-부트캠프)
+- :100: [자격증](#100-자격증) 
 - :triangular_ruler: [알고리즘](#triangular_ruler-알고리즘)
 - :coffee: [Java](#coffee-java)
 - :leafy_green: [Spring](#leafy_green-spring)
@@ -57,8 +60,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots](https://lmarena.ai/?leaderboard)
 - [SGE, 생성형 AI 검색](https://labs.google.com/search/experiment/1?hl=ko&is=ag)
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
-- [DeepL 번역](https://www.deepl.com/translator)
-  - [Chrome 웹 스토어](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj)
 
 ## :newspaper_roll: RSS
 
@@ -83,6 +84,20 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet)
   - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 - [국취이야기](https://www.work24.go.kr/ua/z/z/1300/selectEmssRqutIntro.do) 
+
+## :100: 자격증
+
+- [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
+- [SQL[개발자] : 데이터자격시험](https://www.dataq.or.kr/www/sub/a_04.do)
+  - [2024년 sqld 합격후기/교재추천/공부방법.. : 네이버블로그](https://blog.naver.com/julie000402/223399575624)    
+  - [[SQLD 강의] 노랭이 SQL 문제풀이](https://youtube.com/playlist?list=PLyQR2NzLKOCZU_jjLAdebyx9oE9dvvsrE&si=8EQEeQLetpZ4_5zE)
+  - [데이터 전문가 포럼 (빅데이터분석기사, ADP, SQLP, DAP 등) : 네이버 카페](https://cafe.naver.com/sqlpd)
+- [컴퓨터활용능력](https://license.korcham.net/co/examguide.do?mm=21&cd=0103)
+  - [컴퓨터활용능력 1급 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/003001001/summaries) 
+- [워드프로세서](https://license.korcham.net/co/examguide.do?mm=22&cd=0102)
+  - [워드프로세서 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/002001001/summaries)
+- [사무자동화산업기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=2193)
+  - [사무자동화 산업기사 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/004001001/summaries)
   
 ## :triangular_ruler: 알고리즘
 
@@ -273,6 +288,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :scroll: 이력서
 
+- [한국어 맞춤법/문법 검사기](https://nara-speller.co.kr/speller/)
 - [어느 날 고민 많은 주니어 개발자가 찾아왔다 - 성장과 취업, 이직 이야기 | 인프콘 2022](https://youtu.be/QHlyr8soUDM?si=uQUKnvim2HAAmsc8) 
 - [Resume: Yongwoo Yu](https://resume.yowu.dev)
 - [김찬연 기술 이력서](https://resume.chayeoi.site)
