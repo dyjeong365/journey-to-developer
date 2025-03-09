@@ -88,6 +88,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :100: 자격증
 
 - [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
+  - [정보처리 기사 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/001001001/summaries)
 - [SQL[개발자] : 데이터자격시험](https://www.dataq.or.kr/www/sub/a_04.do)
   - [2024년 sqld 합격후기/교재추천/공부방법.. : 네이버블로그](https://blog.naver.com/julie000402/223399575624)    
   - [[SQLD 강의] 노랭이 SQL 문제풀이](https://youtube.com/playlist?list=PLyQR2NzLKOCZU_jjLAdebyx9oE9dvvsrE&si=8EQEeQLetpZ4_5zE)
