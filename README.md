@@ -93,12 +93,13 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [2024년 sqld 합격후기/교재추천/공부방법.. : 네이버블로그](https://blog.naver.com/julie000402/223399575624)    
   - [[SQLD 강의] 노랭이 SQL 문제풀이](https://youtube.com/playlist?list=PLyQR2NzLKOCZU_jjLAdebyx9oE9dvvsrE&si=8EQEeQLetpZ4_5zE)
   - [데이터 전문가 포럼 (빅데이터분석기사, ADP, SQLP, DAP 등) : 네이버 카페](https://cafe.naver.com/sqlpd)
+- [리눅스마스터](https://www.ihd.or.kr/introducesubject1.do)
 - [컴퓨터활용능력](https://license.korcham.net/co/examguide.do?mm=21&cd=0103)
   - [컴퓨터활용능력 1급 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/003001001/summaries) 
-- [워드프로세서](https://license.korcham.net/co/examguide.do?mm=22&cd=0102)
-  - [워드프로세서 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/002001001/summaries)
 - [사무자동화산업기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=2193)
   - [사무자동화 산업기사 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/004001001/summaries)
+- [워드프로세서](https://license.korcham.net/co/examguide.do?mm=22&cd=0102)
+  - [워드프로세서 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/002001001/summaries)
   
 ## :triangular_ruler: 알고리즘
 
