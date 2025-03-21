@@ -87,6 +87,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :100: 자격증
 
+- [청년 국가기술자격시험 응시료 지원사업 안내](https://www.q-net.or.kr/man004.do?id=man00402&gSite=Q&gld=&ARTL_SEQ=5212578&BOARD_ID=Q001&notiType=10)
 - [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
   - [정보처리 기사 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/001001001/summaries)
 - [SQL[개발자] : 데이터자격시험](https://www.dataq.or.kr/www/sub/a_04.do)
@@ -173,7 +174,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [How do NoSQL databases work? Simply Explained!](https://www.youtube.com/watch?v=0buKQHokLK8)
   - [MongoDB Documentation](https://www.mongodb.com/docs/manual/introduction) 
 - 코딩테스트
-  - [코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved&languages=mysql)
+  - [코딩테스트 연습 | 프로그래머스 스쿨](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved%2Csolving&languages=mysql)
   - [SQL 50](https://leetcode.com/studyplan/top-sql-50)
 
 ## :spider_web: 네트워크
@@ -274,7 +275,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [도커 : 이미지 만드는 법 - Dockerfile & build](https://www.youtube.com/watch?v=0kQC19w0gTI)
 - [Docker hub로 이미지 공유하기 (push)](https://www.youtube.com/watch?v=_38dU6GExDo)
 - [Docker compose 를 이용해서 복잡한 도커 컨테이너를 제어하기](https://www.youtube.com/watch?v=EK6iYRCIjYs)
-- [[Docker] 맥(MAC) 시스템 데이터 저장 공간에서 도커(Docker) 용량 줄이기](https://manchann.tistory.com/35)
 
 ## :mailbox_with_mail: 배포
 
