@@ -105,6 +105,10 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [사무자동화 산업기사 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/004001001/summaries)
 - [워드프로세서](https://license.korcham.net/co/examguide.do?mm=22&cd=0102)
   - [워드프로세서 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/002001001/summaries)
+  - [코드 작성하다가 한번에 그 줄 왼쪽끝으로 커서를 옮기는 단축키가 뭔가요?](https://www.codeit.kr/community/questions/UXVlc3Rpb246NjA5ZDM5NjhlMDVkNWQwMmJkZTdmY2Y5)
+  - [한글 전체선택 / 부분선택 초간단 방법! (한글 단어, 문단, 글전체 선택하기)](https://letmedohappyblog.tistory.com/43)
+  - [워드프로세서 실기 - 책 내용 질문하기 | 시나공](https://www.sinagong.co.kr/community/002004002/book-qnas/267463)
+  - [머리말 2개 방법 푼다 - Word(워드프로세서) 마이너 갤러리](https://gall.dcinside.com/mgallery/board/view/?id=word&no=6020)
   
 ## :triangular_ruler: 알고리즘
 
