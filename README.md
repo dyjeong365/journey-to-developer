@@ -57,6 +57,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Perplexity](https://www.perplexity.ai/)
 - [Microsoft Copilot](https://copilot.microsoft.com)
 - [에이닷](https://adot.ai/multillm)
+  - [에이닷 - Chrome 웹 스토어](https://chromewebstore.google.com/detail/%EC%97%90%EC%9D%B4%EB%8B%B7/fbogifhallibmelalpgmgoogadojbibb)
 - [Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots](https://lmarena.ai/?leaderboard)
 - [SGE, 생성형 AI 검색](https://labs.google.com/search/experiment/1?hl=ko&is=ag)
 - [[tool] AWS CodeWhisperer 15분 사용기](https://kghworks.tistory.com/129)
