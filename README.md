@@ -53,6 +53,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [[업무활용편] ChatGPT 활용사례 및 활용 팁.pdf](https://www.koraia.org/chtml/board.php?template=base&com_board_basic=file_download&com_board_id=12&com_board_idx=587&com_board_file_seq=0)
   - [ChatGPT 활용 방법](https://docs.google.com/presentation/d/1lU-1mxLNbtIXRkAMEpBR9ZlLFfWY00ZOccaEarzKgMo/edit#slide=id.g287eca2914e_2_0)
 - [Claude](https://claude.ai/chats)
+- [Gemini](https://gemini.google.com)
 - [DeepSeek](https://chat.deepseek.com/)
 - [Perplexity](https://www.perplexity.ai/)
 - [Microsoft Copilot](https://copilot.microsoft.com)
