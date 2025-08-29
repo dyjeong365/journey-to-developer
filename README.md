@@ -65,7 +65,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :newspaper_roll: RSS
 
-- [새로운 소식 1 페이지 | 다모앙 | DAMOANG](https://damoang.net/new)
 - [클리앙 : 정보와자료](https://www.clien.net/service/group/allinfo)
 - [기글하드웨어](https://gigglehd.com/gg)
 - [뉴스 - 조드](https://zod.kr/news_all)
@@ -205,6 +204,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [공공데이터포털](https://www.data.go.kr) 
 - [기계들 간의 대화 - GraphQL](https://youtu.be/c6qHnYa9pUk?si=IuZ1InWXUnPkKhU5)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+- [진격의거인보면 네트워크 고수됨](https://www.youtube.com/watch?v=LbGS7s67Rh0&t=34s)
 
 ## :shield: 보안
 
@@ -301,7 +301,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :scroll: 이력서
 
-- [한국어 맞춤법/문법 검사기](https://nara-speller.co.kr/speller/)
+- [바른 한글]([https://nara-speller.co.kr/speller/](https://nara-speller.co.kr/speller))
 - [어느 날 고민 많은 주니어 개발자가 찾아왔다 - 성장과 취업, 이직 이야기 | 인프콘 2022](https://youtu.be/QHlyr8soUDM?si=uQUKnvim2HAAmsc8) 
 - [Resume: Yongwoo Yu](https://resume.yowu.dev)
 - [김찬연 기술 이력서](https://resume.chayeoi.site)
