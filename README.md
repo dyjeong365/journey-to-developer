@@ -68,6 +68,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [클리앙 : 정보와자료](https://www.clien.net/service/group/allinfo)
 - [기글하드웨어](https://gigglehd.com/gg)
 - [뉴스 - 조드](https://zod.kr/news_all)
+- [미코 - 미니 IT기기 커뮤니티](https://meeco.kr/)
 - [블로터](https://www.bloter.net/news/articleList.html?page=1&total=28027&sc_section_code=S1N4&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E&view_type=sm)
 - [GeekNews](https://news.hada.io)
   - [GeekNews Weekly](https://news.hada.io/weekly) 
