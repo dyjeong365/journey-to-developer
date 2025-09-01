@@ -66,6 +66,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :newspaper_roll: RSS
 
 - [클리앙 : 정보와자료](https://www.clien.net/service/group/allinfo)
+- [새로운 소식|다모앙](https://damoang.net/new)
 - [기글하드웨어](https://gigglehd.com/gg)
 - [뉴스 - 조드](https://zod.kr/news_all)
 - [미코 - 미니 IT기기 커뮤니티](https://meeco.kr/)
