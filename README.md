@@ -46,6 +46,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 - [Developer Roadmaps](https://roadmap.sh)
 - [개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)
 - [우아한테크코스 테코톡](https://youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&si=-Gt9LKur4NZP2D7B)
+- [free-programming-books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-ko.html)
 
 ## :robot: 인공지능
 
