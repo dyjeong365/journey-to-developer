@@ -103,6 +103,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [[오라클] ROW_NUMBER() over(partition by) : 네이버 블로그](https://m.blog.naver.com/tnwnsrla/222575802797)
   - [[Oracle] COALESCE 함수 사용법 (NVL 여러개)](https://gent.tistory.com/479)
 - [리눅스마스터](https://www.ihd.or.kr/introducesubject1.do)
+  - [2025 · 2026 리눅스마스터 1급(1 · 2차) 기본서](https://youtube.com/playlist?list=PL6i7rGeEmTvr_I2ONBDsolgiI4Sv0RCLI&si=bEKqa2WZNur8MZFB)
 - [컴퓨터활용능력](https://license.korcham.net/co/examguide.do?mm=21&cd=0103)
   - [컴퓨터활용능력 1급 필기 - 핵심요약집 | 시나공](https://www.sinagong.co.kr/pds/003001001/summaries) 
 - [사무자동화산업기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=2193)
@@ -117,15 +118,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 ## :triangular_ruler: 알고리즘
 
 - [코딩 테스트 및 알고리즘 문제해결 공부 방법](https://www.slideshare.net/SuhyunPark23/kucc-2022-4)
-- [Baekjoon Online Judge](https://www.acmicpc.net)
-  - [새싹](https://solved.ac/problems/sprout)
-  - [단계별로 풀어보기](https://www.acmicpc.net/step)
-  - [CLASS](https://solved.ac/class)
-  - [[Java / IntelliJ] 인텔리제이 입출력 txt로 받기](https://ddingmin00.tistory.com/60)
-- [프로그래머스](https://programmers.co.kr)
-  - [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=1&statuses=unsolved&languages=java)
-  - [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
-- [백준허브](https://chrome.google.com/webstore/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko)
+- [[Java / IntelliJ] 인텔리제이 입출력 txt로 받기](https://ddingmin00.tistory.com/60)
 - [LeetCode](https://leetcode.com/problemset)
   - [Programming Skills](https://leetcode.com/studyplan/programming-skills/)
   - [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
@@ -186,7 +179,6 @@ https://github.com/ikatyang/emoji-cheat-sheet
   - [How do NoSQL databases work? Simply Explained!](https://www.youtube.com/watch?v=0buKQHokLK8)
   - [MongoDB Documentation](https://www.mongodb.com/docs/manual/introduction) 
 - 코딩테스트
-  - [코딩테스트 연습 | 프로그래머스 스쿨](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&statuses=unsolved%2Csolving&languages=mysql)
   - [SQL 50](https://leetcode.com/studyplan/top-sql-50)
 
 ## :spider_web: 네트워크
